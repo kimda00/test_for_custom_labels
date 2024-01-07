@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Official YOLOv7
 
 Implementation of paper - [YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://arxiv.org/abs/2207.02696)
@@ -308,3 +309,6 @@ YOLOv7-3d-detection & YOLOv7-lidar & YOLOv7-road (with NTUT)
 * [https://github.com/TexasInstruments/edgeai-yolov5/tree/yolo-pose](https://github.com/TexasInstruments/edgeai-yolov5/tree/yolo-pose)
 
 </details>
+=======
+# test_for_custom_labels
+>>>>>>> 01ba7b977138362c6ad81cc9ba8b21dab118d78c
