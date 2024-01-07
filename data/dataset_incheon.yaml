@@ -1,0 +1,14 @@
+# COCO 2017 dataset http://cocodataset.org
+
+# download command/URL (optional)
+download: bash ./scripts/get_coco.sh
+
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: ./inference/dataset_incheon/train.txt  # 118287 images
+val: ./inference/dataset_incheon/val.txt # 5000 images
+test: ./inference/dataset_incheon/test.txt  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+
+# number of classes
+nc: 18
+# class names
+names: [ 'person', 'bicycle', 'car', 'bus', 'motorcycle', 'truck', 'green', 'red', 'yellow', 'red_arrow',  'red_yellow', 'green_arrow', 'green_yellow','green_right','warn', 'black', 'tl_v', 'tl_p']

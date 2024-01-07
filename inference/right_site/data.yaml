@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 15
+names: ['black', 'bus', 'car', 'green', 'green_arrow', 'green_yellow', 'motorcycle', 'person', 'red', 'red_arrow', 'red_yellow', 'tl_p', 'tl_v', 'truck', 'yellow']
+
+roboflow:
+  workspace: kimda0
+  project: 54654
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/kimda0/54654/dataset/1

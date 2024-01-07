@@ -319,6 +319,7 @@ def resample_segments(segments, n=1000):
 
 def scale_coords(img1_shape, coords, img0_shape, ratio_pad=None):
     # Rescale coords (xyxy) from img1_shape to img0_shape
+    # print(f'befor scaling : {coords}')
     if ratio_pad is None:  # calculate from img0_shape
         gain = min(img1_shape[0] / img0_shape[0], img1_shape[1] / img0_shape[1])  # gain  = old / new
         pad = (img1_shape[1] - img0_shape[1] * gain) / 2, (img1_shape[0] - img0_shape[0] * gain) / 2  # wh padding
@@ -326,11 +327,67 @@ def scale_coords(img1_shape, coords, img0_shape, ratio_pad=None):
         gain = ratio_pad[0][0]
         pad = ratio_pad[1]
 
+    # print(f'gain : {gain}')
+    # print(f'pad : {pad}')
     coords[:, [0, 2]] -= pad[0]  # x padding
     coords[:, [1, 3]] -= pad[1]  # y padding
     coords[:, :4] /= gain
     clip_coords(coords, img0_shape)
+    # print(f"img1_shape (network input size): {img1_shape}")
+    # print(f"coords (predicted boxes before scaling): {coords}")
+    # print(f"img0_shape (original image size): {img0_shape}")
+    # if ratio_pad is None:
+    #     print(f"gain (scale factor): {gain}")
+    #     print(f"pad (padding): {pad}")
+    # else:
+    #     print(f"gain (from ratio_pad): {ratio_pad[0]}")
+    #     print(f"pad (from ratio_pad): {ratio_pad[1]}")
+    # scale_coords 함수 내에서 각 단계에서 coords 값을 출력
+    # print(f"Coords before scaling: {coords}")
+    coords[:, [0, 2]] -= pad[0]  # x padding
+    coords[:, [1, 3]] -= pad[1]  # y padding
+    # print(f"Coords after padding adjustment: {coords}")
+    coords[:, :4] /= gain
+    # print(f"Coords after gain adjustment: {coords}")
+    clip_coords(coords, img0_shape)
+    # print(f"Coords after clipping: {coords}")
+    # print(f'after  sscaling : {coords}')
+
     return coords
+
+# def scale_coords(img1_shape, coords, img0_shape, ratio_pad=None):
+#     # Rescale coords (xyxy) from img1_shape to img0_shape
+#     if ratio_pad is None:  # calculate from img0_shape
+#         gain = min(img1_shape[0] / img0_shape[0], img1_shape[1] / img0_shape[1])  # gain  = old / new
+#         pad = (img1_shape[1] - img0_shape[1] * gain) / 2, (img1_shape[0] - img0_shape[0] * gain) / 2  # wh padding
+#     else:
+#         gain = ratio_pad[0][0]
+#         pad = ratio_pad[1]
+
+#     coords[:, [0, 2]] -= pad[0]  # x padding
+#     coords[:, [1, 3]] -= pad[1]  # y padding
+#     coords[:, :4] /= gain
+#     clip_coords(coords, img0_shape)
+#     print(f"img1_shape (network input size): {img1_shape}")
+#     print(f"coords (predicted boxes before scaling): {coords}")
+#     print(f"img0_shape (original image size): {img0_shape}")
+#     if ratio_pad is None:
+#         print(f"gain (scale factor): {gain}")
+#         print(f"pad (padding): {pad}")
+#     else:
+#         print(f"gain (from ratio_pad): {ratio_pad[0]}")
+#         print(f"pad (from ratio_pad): {ratio_pad[1]}")
+#     # scale_coords 함수 내에서 각 단계에서 coords 값을 출력
+#     print(f"Coords before scaling: {coords}")
+#     coords[:, [0, 2]] -= pad[0]  # x padding
+#     coords[:, [1, 3]] -= pad[1]  # y padding
+#     print(f"Coords after padding adjustment: {coords}")
+#     coords[:, :4] /= gain
+#     print(f"Coords after gain adjustment: {coords}")
+#     clip_coords(coords, img0_shape)
+#     print(f"Coords after clipping: {coords}")
+
+#     return coords
 
 
 def clip_coords(boxes, img_shape):
@@ -453,13 +510,19 @@ def box_iou(box1, box2):
         iou (Tensor[N, M]): the NxM matrix containing the pairwise
             IoU values for every element in boxes1 and boxes2
     """
+    # print(f'box1 : {box1}')
+    # print(f'box2 : {box2}')
 
+    
     def box_area(box):
         # box = 4xn
         return (box[2] - box[0]) * (box[3] - box[1])
 
     area1 = box_area(box1.T)
+    # print(f'area1 : {area1}')
     area2 = box_area(box2.T)
+    # print(f'area2 : {area2}')
+
 
     # inter(N,M) = (rb(N,M,2) - lt(N,M,2)).clamp(0).prod(2)
     inter = (torch.min(box1[:, None, 2:], box2[:, 2:]) - torch.max(box1[:, None, :2], box2[:, :2])).clamp(0).prod(2)
@@ -489,6 +552,7 @@ def box_giou(box1, box2):
 
     def box_area(box):
         # box = 4xn
+        # print(f'box area: {box}')
         return (box[2] - box[0]) * (box[3] - box[1])
 
     area1 = box_area(box1.T)

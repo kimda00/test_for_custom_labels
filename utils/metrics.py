@@ -1,4 +1,3 @@
-# Model validation metrics
 
 from pathlib import Path
 

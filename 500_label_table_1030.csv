@@ -1,0 +1,4082 @@
+Id,State,black,green,arrow,red,yellow
+black_1,[‘black’],1,0,0,0,0
+black_2,[‘black’],1,0,0,0,0
+black_3,[‘black’],1,0,0,0,0
+black_4,[‘black’],1,0,0,0,0
+black_5,[‘black’],1,0,0,0,0
+black_6,[‘black’],1,0,0,0,0
+black_7,[‘black’],1,0,0,0,0
+black_8,[‘black’],1,0,0,0,0
+black_9,[‘black’],1,0,0,0,0
+black_10,[‘black’],1,0,0,0,0
+black_11,[‘black’],1,0,0,0,0
+black_12,[‘black’],1,0,0,0,0
+black_13,[‘black’],1,0,0,0,0
+black_14,[‘black’],1,0,0,0,0
+black_15,[‘black’],1,0,0,0,0
+black_16,[‘black’],1,0,0,0,0
+black_17,[‘black’],1,0,0,0,0
+black_18,[‘black’],1,0,0,0,0
+black_19,[‘black’],1,0,0,0,0
+black_20,[‘black’],1,0,0,0,0
+black_21,[‘black’],1,0,0,0,0
+black_22,[‘black’],1,0,0,0,0
+black_23,[‘black’],1,0,0,0,0
+black_24,[‘black’],1,0,0,0,0
+black_25,[‘black’],1,0,0,0,0
+black_26,[‘black’],1,0,0,0,0
+black_27,[‘black’],1,0,0,0,0
+black_28,[‘black’],1,0,0,0,0
+black_29,[‘black’],1,0,0,0,0
+black_30,[‘black’],1,0,0,0,0
+black_31,[‘black’],1,0,0,0,0
+black_32,[‘black’],1,0,0,0,0
+black_33,[‘black’],1,0,0,0,0
+black_34,[‘black’],1,0,0,0,0
+black_35,[‘black’],1,0,0,0,0
+black_36,[‘black’],1,0,0,0,0
+black_37,[‘black’],1,0,0,0,0
+black_38,[‘black’],1,0,0,0,0
+black_39,[‘black’],1,0,0,0,0
+black_40,[‘black’],1,0,0,0,0
+black_41,[‘black’],1,0,0,0,0
+black_42,[‘black’],1,0,0,0,0
+black_43,[‘black’],1,0,0,0,0
+black_44,[‘black’],1,0,0,0,0
+black_45,[‘black’],1,0,0,0,0
+black_46,[‘black’],1,0,0,0,0
+black_47,[‘black’],1,0,0,0,0
+black_48,[‘black’],1,0,0,0,0
+black_49,[‘black’],1,0,0,0,0
+black_50,[‘black’],1,0,0,0,0
+black_51,[‘black’],1,0,0,0,0
+black_52,[‘black’],1,0,0,0,0
+black_53,[‘black’],1,0,0,0,0
+black_54,[‘black’],1,0,0,0,0
+black_55,[‘black’],1,0,0,0,0
+black_56,[‘black’],1,0,0,0,0
+black_57,[‘black’],1,0,0,0,0
+black_58,[‘black’],1,0,0,0,0
+black_59,[‘black’],1,0,0,0,0
+black_60,[‘black’],1,0,0,0,0
+black_61,[‘black’],1,0,0,0,0
+black_62,[‘black’],1,0,0,0,0
+black_63,[‘black’],1,0,0,0,0
+black_64,[‘black’],1,0,0,0,0
+black_65,[‘black’],1,0,0,0,0
+black_66,[‘black’],1,0,0,0,0
+black_67,[‘black’],1,0,0,0,0
+black_68,[‘black’],1,0,0,0,0
+black_69,[‘black’],1,0,0,0,0
+black_70,[‘black’],1,0,0,0,0
+black_71,[‘black’],1,0,0,0,0
+black_72,[‘black’],1,0,0,0,0
+black_73,[‘black’],1,0,0,0,0
+black_74,[‘black’],1,0,0,0,0
+black_75,[‘black’],1,0,0,0,0
+black_76,[‘black’],1,0,0,0,0
+black_77,[‘black’],1,0,0,0,0
+black_78,[‘black’],1,0,0,0,0
+black_79,[‘black’],1,0,0,0,0
+black_80,[‘black’],1,0,0,0,0
+black_81,[‘black’],1,0,0,0,0
+black_82,[‘black’],1,0,0,0,0
+black_83,[‘black’],1,0,0,0,0
+black_84,[‘black’],1,0,0,0,0
+black_85,[‘black’],1,0,0,0,0
+black_86,[‘black’],1,0,0,0,0
+black_87,[‘black’],1,0,0,0,0
+black_88,[‘black’],1,0,0,0,0
+black_89,[‘black’],1,0,0,0,0
+black_90,[‘black’],1,0,0,0,0
+black_91,[‘black’],1,0,0,0,0
+black_92,[‘black’],1,0,0,0,0
+black_93,[‘black’],1,0,0,0,0
+black_94,[‘black’],1,0,0,0,0
+black_95,[‘black’],1,0,0,0,0
+black_96,[‘black’],1,0,0,0,0
+black_97,[‘black’],1,0,0,0,0
+black_98,[‘black’],1,0,0,0,0
+black_99,[‘black’],1,0,0,0,0
+black_100,[‘black’],1,0,0,0,0
+black_101,[‘black’],1,0,0,0,0
+black_102,[‘black’],1,0,0,0,0
+black_103,[‘black’],1,0,0,0,0
+black_104,[‘black’],1,0,0,0,0
+black_105,[‘black’],1,0,0,0,0
+black_106,[‘black’],1,0,0,0,0
+black_107,[‘black’],1,0,0,0,0
+black_108,[‘black’],1,0,0,0,0
+black_109,[‘black’],1,0,0,0,0
+black_110,[‘black’],1,0,0,0,0
+black_111,[‘black’],1,0,0,0,0
+black_112,[‘black’],1,0,0,0,0
+black_113,[‘black’],1,0,0,0,0
+black_114,[‘black’],1,0,0,0,0
+black_115,[‘black’],1,0,0,0,0
+black_116,[‘black’],1,0,0,0,0
+black_117,[‘black’],1,0,0,0,0
+black_118,[‘black’],1,0,0,0,0
+black_119,[‘black’],1,0,0,0,0
+black_120,[‘black’],1,0,0,0,0
+black_121,[‘black’],1,0,0,0,0
+black_122,[‘black’],1,0,0,0,0
+black_123,[‘black’],1,0,0,0,0
+black_124,[‘black’],1,0,0,0,0
+black_125,[‘black’],1,0,0,0,0
+black_126,[‘black’],1,0,0,0,0
+black_127,[‘black’],1,0,0,0,0
+black_128,[‘black’],1,0,0,0,0
+black_129,[‘black’],1,0,0,0,0
+black_130,[‘black’],1,0,0,0,0
+black_131,[‘black’],1,0,0,0,0
+black_132,[‘black’],1,0,0,0,0
+black_133,[‘black’],1,0,0,0,0
+black_134,[‘black’],1,0,0,0,0
+black_135,[‘black’],1,0,0,0,0
+black_136,[‘black’],1,0,0,0,0
+black_137,[‘black’],1,0,0,0,0
+black_138,[‘black’],1,0,0,0,0
+black_139,[‘black’],1,0,0,0,0
+black_140,[‘black’],1,0,0,0,0
+black_141,[‘black’],1,0,0,0,0
+black_142,[‘black’],1,0,0,0,0
+black_143,[‘black’],1,0,0,0,0
+black_144,[‘black’],1,0,0,0,0
+black_145,[‘black’],1,0,0,0,0
+black_146,[‘black’],1,0,0,0,0
+black_147,[‘black’],1,0,0,0,0
+black_148,[‘black’],1,0,0,0,0
+black_149,[‘black’],1,0,0,0,0
+black_150,[‘black’],1,0,0,0,0
+black_151,[‘black’],1,0,0,0,0
+black_152,[‘black’],1,0,0,0,0
+black_153,[‘black’],1,0,0,0,0
+black_154,[‘black’],1,0,0,0,0
+black_155,[‘black’],1,0,0,0,0
+black_156,[‘black’],1,0,0,0,0
+black_157,[‘black’],1,0,0,0,0
+black_158,[‘black’],1,0,0,0,0
+black_159,[‘black’],1,0,0,0,0
+black_160,[‘black’],1,0,0,0,0
+black_161,[‘black’],1,0,0,0,0
+black_162,[‘black’],1,0,0,0,0
+black_163,[‘black’],1,0,0,0,0
+black_164,[‘black’],1,0,0,0,0
+black_165,[‘black’],1,0,0,0,0
+black_166,[‘black’],1,0,0,0,0
+black_167,[‘black’],1,0,0,0,0
+black_168,[‘black’],1,0,0,0,0
+black_169,[‘black’],1,0,0,0,0
+black_170,[‘black’],1,0,0,0,0
+black_171,[‘black’],1,0,0,0,0
+black_172,[‘black’],1,0,0,0,0
+black_173,[‘black’],1,0,0,0,0
+black_174,[‘black’],1,0,0,0,0
+black_175,[‘black’],1,0,0,0,0
+black_176,[‘black’],1,0,0,0,0
+black_177,[‘black’],1,0,0,0,0
+black_178,[‘black’],1,0,0,0,0
+black_179,[‘black’],1,0,0,0,0
+black_180,[‘black’],1,0,0,0,0
+black_181,[‘black’],1,0,0,0,0
+black_182,[‘black’],1,0,0,0,0
+black_183,[‘black’],1,0,0,0,0
+black_184,[‘black’],1,0,0,0,0
+black_185,[‘black’],1,0,0,0,0
+black_186,[‘black’],1,0,0,0,0
+black_187,[‘black’],1,0,0,0,0
+black_188,[‘black’],1,0,0,0,0
+black_189,[‘black’],1,0,0,0,0
+black_190,[‘black’],1,0,0,0,0
+black_191,[‘black’],1,0,0,0,0
+black_192,[‘black’],1,0,0,0,0
+black_193,[‘black’],1,0,0,0,0
+black_194,[‘black’],1,0,0,0,0
+black_195,[‘black’],1,0,0,0,0
+black_196,[‘black’],1,0,0,0,0
+black_197,[‘black’],1,0,0,0,0
+black_198,[‘black’],1,0,0,0,0
+black_199,[‘black’],1,0,0,0,0
+black_200,[‘black’],1,0,0,0,0
+black_201,[‘black’],1,0,0,0,0
+black_202,[‘black’],1,0,0,0,0
+black_203,[‘black’],1,0,0,0,0
+black_204,[‘black’],1,0,0,0,0
+black_205,[‘black’],1,0,0,0,0
+black_206,[‘black’],1,0,0,0,0
+black_207,[‘black’],1,0,0,0,0
+black_208,[‘black’],1,0,0,0,0
+black_209,[‘black’],1,0,0,0,0
+black_210,[‘black’],1,0,0,0,0
+black_211,[‘black’],1,0,0,0,0
+black_212,[‘black’],1,0,0,0,0
+black_213,[‘black’],1,0,0,0,0
+black_214,[‘black’],1,0,0,0,0
+black_215,[‘black’],1,0,0,0,0
+black_216,[‘black’],1,0,0,0,0
+black_217,[‘black’],1,0,0,0,0
+black_218,[‘black’],1,0,0,0,0
+black_219,[‘black’],1,0,0,0,0
+black_220,[‘black’],1,0,0,0,0
+black_221,[‘black’],1,0,0,0,0
+black_222,[‘black’],1,0,0,0,0
+black_223,[‘black’],1,0,0,0,0
+black_224,[‘black’],1,0,0,0,0
+black_225,[‘black’],1,0,0,0,0
+black_226,[‘black’],1,0,0,0,0
+black_227,[‘black’],1,0,0,0,0
+black_228,[‘black’],1,0,0,0,0
+black_229,[‘black’],1,0,0,0,0
+black_230,[‘black’],1,0,0,0,0
+black_231,[‘black’],1,0,0,0,0
+black_232,[‘black’],1,0,0,0,0
+black_233,[‘black’],1,0,0,0,0
+black_234,[‘black’],1,0,0,0,0
+black_235,[‘black’],1,0,0,0,0
+black_236,[‘black’],1,0,0,0,0
+black_237,[‘black’],1,0,0,0,0
+black_238,[‘black’],1,0,0,0,0
+black_239,[‘black’],1,0,0,0,0
+black_240,[‘black’],1,0,0,0,0
+black_241,[‘black’],1,0,0,0,0
+black_242,[‘black’],1,0,0,0,0
+black_243,[‘black’],1,0,0,0,0
+black_244,[‘black’],1,0,0,0,0
+black_245,[‘black’],1,0,0,0,0
+black_246,[‘black’],1,0,0,0,0
+black_247,[‘black’],1,0,0,0,0
+black_248,[‘black’],1,0,0,0,0
+black_249,[‘black’],1,0,0,0,0
+black_250,[‘black’],1,0,0,0,0
+black_251,[‘black’],1,0,0,0,0
+black_252,[‘black’],1,0,0,0,0
+black_253,[‘black’],1,0,0,0,0
+black_254,[‘black’],1,0,0,0,0
+black_255,[‘black’],1,0,0,0,0
+black_256,[‘black’],1,0,0,0,0
+black_257,[‘black’],1,0,0,0,0
+black_258,[‘black’],1,0,0,0,0
+black_259,[‘black’],1,0,0,0,0
+black_260,[‘black’],1,0,0,0,0
+black_261,[‘black’],1,0,0,0,0
+black_262,[‘black’],1,0,0,0,0
+black_263,[‘black’],1,0,0,0,0
+black_264,[‘black’],1,0,0,0,0
+black_265,[‘black’],1,0,0,0,0
+black_266,[‘black’],1,0,0,0,0
+black_267,[‘black’],1,0,0,0,0
+black_268,[‘black’],1,0,0,0,0
+black_269,[‘black’],1,0,0,0,0
+black_270,[‘black’],1,0,0,0,0
+black_271,[‘black’],1,0,0,0,0
+black_272,[‘black’],1,0,0,0,0
+black_273,[‘black’],1,0,0,0,0
+black_274,[‘black’],1,0,0,0,0
+black_275,[‘black’],1,0,0,0,0
+black_276,[‘black’],1,0,0,0,0
+black_277,[‘black’],1,0,0,0,0
+black_278,[‘black’],1,0,0,0,0
+black_279,[‘black’],1,0,0,0,0
+black_280,[‘black’],1,0,0,0,0
+black_281,[‘black’],1,0,0,0,0
+black_282,[‘black’],1,0,0,0,0
+black_283,[‘black’],1,0,0,0,0
+black_284,[‘black’],1,0,0,0,0
+black_285,[‘black’],1,0,0,0,0
+black_286,[‘black’],1,0,0,0,0
+black_287,[‘black’],1,0,0,0,0
+black_288,[‘black’],1,0,0,0,0
+black_289,[‘black’],1,0,0,0,0
+black_290,[‘black’],1,0,0,0,0
+black_291,[‘black’],1,0,0,0,0
+black_292,[‘black’],1,0,0,0,0
+black_293,[‘black’],1,0,0,0,0
+black_294,[‘black’],1,0,0,0,0
+black_295,[‘black’],1,0,0,0,0
+black_296,[‘black’],1,0,0,0,0
+black_297,[‘black’],1,0,0,0,0
+black_298,[‘black’],1,0,0,0,0
+black_299,[‘black’],1,0,0,0,0
+black_300,[‘black’],1,0,0,0,0
+black_301,[‘black’],1,0,0,0,0
+black_302,[‘black’],1,0,0,0,0
+black_303,[‘black’],1,0,0,0,0
+black_304,[‘black’],1,0,0,0,0
+black_305,[‘black’],1,0,0,0,0
+black_306,[‘black’],1,0,0,0,0
+black_307,[‘black’],1,0,0,0,0
+black_308,[‘black’],1,0,0,0,0
+black_309,[‘black’],1,0,0,0,0
+black_310,[‘black’],1,0,0,0,0
+black_311,[‘black’],1,0,0,0,0
+black_312,[‘black’],1,0,0,0,0
+black_313,[‘black’],1,0,0,0,0
+black_314,[‘black’],1,0,0,0,0
+black_315,[‘black’],1,0,0,0,0
+black_316,[‘black’],1,0,0,0,0
+black_317,[‘black’],1,0,0,0,0
+black_318,[‘black’],1,0,0,0,0
+black_319,[‘black’],1,0,0,0,0
+black_320,[‘black’],1,0,0,0,0
+black_321,[‘black’],1,0,0,0,0
+black_322,[‘black’],1,0,0,0,0
+black_323,[‘black’],1,0,0,0,0
+black_324,[‘black’],1,0,0,0,0
+black_325,[‘black’],1,0,0,0,0
+black_326,[‘black’],1,0,0,0,0
+black_327,[‘black’],1,0,0,0,0
+black_328,[‘black’],1,0,0,0,0
+black_329,[‘black’],1,0,0,0,0
+black_330,[‘black’],1,0,0,0,0
+black_331,[‘black’],1,0,0,0,0
+black_332,[‘black’],1,0,0,0,0
+black_333,[‘black’],1,0,0,0,0
+black_334,[‘black’],1,0,0,0,0
+black_335,[‘black’],1,0,0,0,0
+black_336,[‘black’],1,0,0,0,0
+black_337,[‘black’],1,0,0,0,0
+black_338,[‘black’],1,0,0,0,0
+black_339,[‘black’],1,0,0,0,0
+black_340,[‘black’],1,0,0,0,0
+black_341,[‘black’],1,0,0,0,0
+black_342,[‘black’],1,0,0,0,0
+black_343,[‘black’],1,0,0,0,0
+black_344,[‘black’],1,0,0,0,0
+black_345,[‘black’],1,0,0,0,0
+black_346,[‘black’],1,0,0,0,0
+black_347,[‘black’],1,0,0,0,0
+black_348,[‘black’],1,0,0,0,0
+black_349,[‘black’],1,0,0,0,0
+black_350,[‘black’],1,0,0,0,0
+black_351,[‘black’],1,0,0,0,0
+black_352,[‘black’],1,0,0,0,0
+black_353,[‘black’],1,0,0,0,0
+black_354,[‘black’],1,0,0,0,0
+black_355,[‘black’],1,0,0,0,0
+black_356,[‘black’],1,0,0,0,0
+black_357,[‘black’],1,0,0,0,0
+black_358,[‘black’],1,0,0,0,0
+black_359,[‘black’],1,0,0,0,0
+black_360,[‘black’],1,0,0,0,0
+black_361,[‘black’],1,0,0,0,0
+black_362,[‘black’],1,0,0,0,0
+black_363,[‘black’],1,0,0,0,0
+black_364,[‘black’],1,0,0,0,0
+black_365,[‘black’],1,0,0,0,0
+black_366,[‘black’],1,0,0,0,0
+black_367,[‘black’],1,0,0,0,0
+black_368,[‘black’],1,0,0,0,0
+black_369,[‘black’],1,0,0,0,0
+black_370,[‘black’],1,0,0,0,0
+black_371,[‘black’],1,0,0,0,0
+black_372,[‘black’],1,0,0,0,0
+black_373,[‘black’],1,0,0,0,0
+black_374,[‘black’],1,0,0,0,0
+black_375,[‘black’],1,0,0,0,0
+black_376,[‘black’],1,0,0,0,0
+black_377,[‘black’],1,0,0,0,0
+black_378,[‘black’],1,0,0,0,0
+black_379,[‘black’],1,0,0,0,0
+black_380,[‘black’],1,0,0,0,0
+black_381,[‘black’],1,0,0,0,0
+black_382,[‘black’],1,0,0,0,0
+black_383,[‘black’],1,0,0,0,0
+black_384,[‘black’],1,0,0,0,0
+black_385,[‘black’],1,0,0,0,0
+black_386,[‘black’],1,0,0,0,0
+black_387,[‘black’],1,0,0,0,0
+black_388,[‘black’],1,0,0,0,0
+black_389,[‘black’],1,0,0,0,0
+black_390,[‘black’],1,0,0,0,0
+black_391,[‘black’],1,0,0,0,0
+black_392,[‘black’],1,0,0,0,0
+black_393,[‘black’],1,0,0,0,0
+black_394,[‘black’],1,0,0,0,0
+black_395,[‘black’],1,0,0,0,0
+black_396,[‘black’],1,0,0,0,0
+black_397,[‘black’],1,0,0,0,0
+black_398,[‘black’],1,0,0,0,0
+black_399,[‘black’],1,0,0,0,0
+black_400,[‘black’],1,0,0,0,0
+black_401,[‘black’],1,0,0,0,0
+black_402,[‘black’],1,0,0,0,0
+black_403,[‘black’],1,0,0,0,0
+black_404,[‘black’],1,0,0,0,0
+black_405,[‘black’],1,0,0,0,0
+black_406,[‘black’],1,0,0,0,0
+black_407,[‘black’],1,0,0,0,0
+black_408,[‘black’],1,0,0,0,0
+black_409,[‘black’],1,0,0,0,0
+black_410,[‘black’],1,0,0,0,0
+black_411,[‘black’],1,0,0,0,0
+black_412,[‘black’],1,0,0,0,0
+black_413,[‘black’],1,0,0,0,0
+black_414,[‘black’],1,0,0,0,0
+black_415,[‘black’],1,0,0,0,0
+black_416,[‘black’],1,0,0,0,0
+black_417,[‘black’],1,0,0,0,0
+black_418,[‘black’],1,0,0,0,0
+black_419,[‘black’],1,0,0,0,0
+black_420,[‘black’],1,0,0,0,0
+black_421,[‘black’],1,0,0,0,0
+black_422,[‘black’],1,0,0,0,0
+black_423,[‘black’],1,0,0,0,0
+black_424,[‘black’],1,0,0,0,0
+black_425,[‘black’],1,0,0,0,0
+black_426,[‘black’],1,0,0,0,0
+black_427,[‘black’],1,0,0,0,0
+black_428,[‘black’],1,0,0,0,0
+black_429,[‘black’],1,0,0,0,0
+black_430,[‘black’],1,0,0,0,0
+black_431,[‘black’],1,0,0,0,0
+black_432,[‘black’],1,0,0,0,0
+black_433,[‘black’],1,0,0,0,0
+black_434,[‘black’],1,0,0,0,0
+black_435,[‘black’],1,0,0,0,0
+black_436,[‘black’],1,0,0,0,0
+black_437,[‘black’],1,0,0,0,0
+black_438,[‘black’],1,0,0,0,0
+black_439,[‘black’],1,0,0,0,0
+black_440,[‘black’],1,0,0,0,0
+black_441,[‘black’],1,0,0,0,0
+black_442,[‘black’],1,0,0,0,0
+black_443,[‘black’],1,0,0,0,0
+black_444,[‘black’],1,0,0,0,0
+black_445,[‘black’],1,0,0,0,0
+black_446,[‘black’],1,0,0,0,0
+black_447,[‘black’],1,0,0,0,0
+black_448,[‘black’],1,0,0,0,0
+black_449,[‘black’],1,0,0,0,0
+black_450,[‘black’],1,0,0,0,0
+black_451,[‘black’],1,0,0,0,0
+black_452,[‘black’],1,0,0,0,0
+black_453,[‘black’],1,0,0,0,0
+black_454,[‘black’],1,0,0,0,0
+black_455,[‘black’],1,0,0,0,0
+black_456,[‘black’],1,0,0,0,0
+black_457,[‘black’],1,0,0,0,0
+black_458,[‘black’],1,0,0,0,0
+black_459,[‘black’],1,0,0,0,0
+black_460,[‘black’],1,0,0,0,0
+black_461,[‘black’],1,0,0,0,0
+black_462,[‘black’],1,0,0,0,0
+black_463,[‘black’],1,0,0,0,0
+black_464,[‘black’],1,0,0,0,0
+black_465,[‘black’],1,0,0,0,0
+black_466,[‘black’],1,0,0,0,0
+black_467,[‘black’],1,0,0,0,0
+black_468,[‘black’],1,0,0,0,0
+black_469,[‘black’],1,0,0,0,0
+black_470,[‘black’],1,0,0,0,0
+black_471,[‘black’],1,0,0,0,0
+black_472,[‘black’],1,0,0,0,0
+black_473,[‘black’],1,0,0,0,0
+black_474,[‘black’],1,0,0,0,0
+black_475,[‘black’],1,0,0,0,0
+black_476,[‘black’],1,0,0,0,0
+black_477,[‘black’],1,0,0,0,0
+black_478,[‘black’],1,0,0,0,0
+black_479,[‘black’],1,0,0,0,0
+black_480,[‘black’],1,0,0,0,0
+black_481,[‘black’],1,0,0,0,0
+black_482,[‘black’],1,0,0,0,0
+black_483,[‘black’],1,0,0,0,0
+black_484,[‘black’],1,0,0,0,0
+black_485,[‘black’],1,0,0,0,0
+black_486,[‘black’],1,0,0,0,0
+black_487,[‘black’],1,0,0,0,0
+black_488,[‘black’],1,0,0,0,0
+black_489,[‘black’],1,0,0,0,0
+black_490,[‘black’],1,0,0,0,0
+black_491,[‘black’],1,0,0,0,0
+black_492,[‘black’],1,0,0,0,0
+black_493,[‘black’],1,0,0,0,0
+black_494,[‘black’],1,0,0,0,0
+black_495,[‘black’],1,0,0,0,0
+black_496,[‘black’],1,0,0,0,0
+black_497,[‘black’],1,0,0,0,0
+black_498,[‘black’],1,0,0,0,0
+black_499,[‘black’],1,0,0,0,0
+black_500,[‘black’],1,0,0,0,0
+green3_1,[‘green’],0,1,0,0,0
+green3_2,[‘green’],0,1,0,0,0
+green3_3,[‘green’],0,1,0,0,0
+green3_4,[‘green’],0,1,0,0,0
+green3_5,[‘green’],0,1,0,0,0
+green3_6,[‘green’],0,1,0,0,0
+green3_7,[‘green’],0,1,0,0,0
+green3_8,[‘green’],0,1,0,0,0
+green3_9,[‘green’],0,1,0,0,0
+green3_10,[‘green’],0,1,0,0,0
+green3_11,[‘green’],0,1,0,0,0
+green3_12,[‘green’],0,1,0,0,0
+green3_13,[‘green’],0,1,0,0,0
+green3_14,[‘green’],0,1,0,0,0
+green3_15,[‘green’],0,1,0,0,0
+green3_16,[‘green’],0,1,0,0,0
+green3_17,[‘green’],0,1,0,0,0
+green3_18,[‘green’],0,1,0,0,0
+green3_19,[‘green’],0,1,0,0,0
+green3_20,[‘green’],0,1,0,0,0
+green3_21,[‘green’],0,1,0,0,0
+green3_22,[‘green’],0,1,0,0,0
+green3_23,[‘green’],0,1,0,0,0
+green3_24,[‘green’],0,1,0,0,0
+green3_25,[‘green’],0,1,0,0,0
+green3_26,[‘green’],0,1,0,0,0
+green3_27,[‘green’],0,1,0,0,0
+green3_28,[‘green’],0,1,0,0,0
+green3_29,[‘green’],0,1,0,0,0
+green3_30,[‘green’],0,1,0,0,0
+green3_31,[‘green’],0,1,0,0,0
+green3_32,[‘green’],0,1,0,0,0
+green3_33,[‘green’],0,1,0,0,0
+green3_34,[‘green’],0,1,0,0,0
+green3_35,[‘green’],0,1,0,0,0
+green3_36,[‘green’],0,1,0,0,0
+green3_37,[‘green’],0,1,0,0,0
+green3_38,[‘green’],0,1,0,0,0
+green3_39,[‘green’],0,1,0,0,0
+green3_40,[‘green’],0,1,0,0,0
+green3_41,[‘green’],0,1,0,0,0
+green3_42,[‘green’],0,1,0,0,0
+green3_43,[‘green’],0,1,0,0,0
+green3_44,[‘green’],0,1,0,0,0
+green3_45,[‘green’],0,1,0,0,0
+green3_46,[‘green’],0,1,0,0,0
+green3_47,[‘green’],0,1,0,0,0
+green3_48,[‘green’],0,1,0,0,0
+green3_49,[‘green’],0,1,0,0,0
+green3_50,[‘green’],0,1,0,0,0
+green3_51,[‘green’],0,1,0,0,0
+green3_52,[‘green’],0,1,0,0,0
+green3_53,[‘green’],0,1,0,0,0
+green3_54,[‘green’],0,1,0,0,0
+green3_55,[‘green’],0,1,0,0,0
+green3_56,[‘green’],0,1,0,0,0
+green3_57,[‘green’],0,1,0,0,0
+green3_58,[‘green’],0,1,0,0,0
+green3_59,[‘green’],0,1,0,0,0
+green3_60,[‘green’],0,1,0,0,0
+green3_61,[‘green’],0,1,0,0,0
+green3_62,[‘green’],0,1,0,0,0
+green3_63,[‘green’],0,1,0,0,0
+green3_64,[‘green’],0,1,0,0,0
+green3_65,[‘green’],0,1,0,0,0
+green3_66,[‘green’],0,1,0,0,0
+green3_67,[‘green’],0,1,0,0,0
+green3_68,[‘green’],0,1,0,0,0
+green3_69,[‘green’],0,1,0,0,0
+green3_70,[‘green’],0,1,0,0,0
+green3_71,[‘green’],0,1,0,0,0
+green3_72,[‘green’],0,1,0,0,0
+green3_73,[‘green’],0,1,0,0,0
+green3_74,[‘green’],0,1,0,0,0
+green3_75,[‘green’],0,1,0,0,0
+green3_76,[‘green’],0,1,0,0,0
+green3_77,[‘green’],0,1,0,0,0
+green3_78,[‘green’],0,1,0,0,0
+green3_79,[‘green’],0,1,0,0,0
+green3_80,[‘green’],0,1,0,0,0
+green3_81,[‘green’],0,1,0,0,0
+green3_82,[‘green’],0,1,0,0,0
+green3_83,[‘green’],0,1,0,0,0
+green3_84,[‘green’],0,1,0,0,0
+green3_85,[‘green’],0,1,0,0,0
+green3_86,[‘green’],0,1,0,0,0
+green3_87,[‘green’],0,1,0,0,0
+green3_88,[‘green’],0,1,0,0,0
+green3_89,[‘green’],0,1,0,0,0
+green3_90,[‘green’],0,1,0,0,0
+green3_91,[‘green’],0,1,0,0,0
+green3_92,[‘green’],0,1,0,0,0
+green3_93,[‘green’],0,1,0,0,0
+green3_94,[‘green’],0,1,0,0,0
+green3_95,[‘green’],0,1,0,0,0
+green3_96,[‘green’],0,1,0,0,0
+green3_97,[‘green’],0,1,0,0,0
+green3_98,[‘green’],0,1,0,0,0
+green3_99,[‘green’],0,1,0,0,0
+green3_100,[‘green’],0,1,0,0,0
+green3_101,[‘green’],0,1,0,0,0
+green3_102,[‘green’],0,1,0,0,0
+green3_103,[‘green’],0,1,0,0,0
+green3_104,[‘green’],0,1,0,0,0
+green3_105,[‘green’],0,1,0,0,0
+green3_106,[‘green’],0,1,0,0,0
+green3_107,[‘green’],0,1,0,0,0
+green3_108,[‘green’],0,1,0,0,0
+green3_109,[‘green’],0,1,0,0,0
+green3_110,[‘green’],0,1,0,0,0
+green3_111,[‘green’],0,1,0,0,0
+green3_112,[‘green’],0,1,0,0,0
+green3_113,[‘green’],0,1,0,0,0
+green3_114,[‘green’],0,1,0,0,0
+green3_115,[‘green’],0,1,0,0,0
+green3_116,[‘green’],0,1,0,0,0
+green3_117,[‘green’],0,1,0,0,0
+green3_118,[‘green’],0,1,0,0,0
+green3_119,[‘green’],0,1,0,0,0
+green3_120,[‘green’],0,1,0,0,0
+green3_121,[‘green’],0,1,0,0,0
+green3_122,[‘green’],0,1,0,0,0
+green3_123,[‘green’],0,1,0,0,0
+green3_124,[‘green’],0,1,0,0,0
+green3_125,[‘green’],0,1,0,0,0
+green3_126,[‘green’],0,1,0,0,0
+green3_127,[‘green’],0,1,0,0,0
+green3_128,[‘green’],0,1,0,0,0
+green3_129,[‘green’],0,1,0,0,0
+green3_130,[‘green’],0,1,0,0,0
+green3_131,[‘green’],0,1,0,0,0
+green3_132,[‘green’],0,1,0,0,0
+green3_133,[‘green’],0,1,0,0,0
+green3_134,[‘green’],0,1,0,0,0
+green3_135,[‘green’],0,1,0,0,0
+green3_136,[‘green’],0,1,0,0,0
+green3_137,[‘green’],0,1,0,0,0
+green3_138,[‘green’],0,1,0,0,0
+green3_139,[‘green’],0,1,0,0,0
+green3_140,[‘green’],0,1,0,0,0
+green3_141,[‘green’],0,1,0,0,0
+green3_142,[‘green’],0,1,0,0,0
+green3_143,[‘green’],0,1,0,0,0
+green3_144,[‘green’],0,1,0,0,0
+green3_145,[‘green’],0,1,0,0,0
+green3_146,[‘green’],0,1,0,0,0
+green3_147,[‘green’],0,1,0,0,0
+green3_148,[‘green’],0,1,0,0,0
+green3_149,[‘green’],0,1,0,0,0
+green3_150,[‘green’],0,1,0,0,0
+green3_151,[‘green’],0,1,0,0,0
+green3_152,[‘green’],0,1,0,0,0
+green3_153,[‘green’],0,1,0,0,0
+green3_154,[‘green’],0,1,0,0,0
+green3_155,[‘green’],0,1,0,0,0
+green3_156,[‘green’],0,1,0,0,0
+green3_157,[‘green’],0,1,0,0,0
+green3_158,[‘green’],0,1,0,0,0
+green3_159,[‘green’],0,1,0,0,0
+green3_160,[‘green’],0,1,0,0,0
+green3_161,[‘green’],0,1,0,0,0
+green3_162,[‘green’],0,1,0,0,0
+green3_163,[‘green’],0,1,0,0,0
+green3_164,[‘green’],0,1,0,0,0
+green3_165,[‘green’],0,1,0,0,0
+green3_166,[‘green’],0,1,0,0,0
+green3_167,[‘green’],0,1,0,0,0
+green3_168,[‘green’],0,1,0,0,0
+green3_169,[‘green’],0,1,0,0,0
+green3_170,[‘green’],0,1,0,0,0
+green3_171,[‘green’],0,1,0,0,0
+green3_172,[‘green’],0,1,0,0,0
+green3_173,[‘green’],0,1,0,0,0
+green3_174,[‘green’],0,1,0,0,0
+green3_175,[‘green’],0,1,0,0,0
+green3_176,[‘green’],0,1,0,0,0
+green3_177,[‘green’],0,1,0,0,0
+green3_178,[‘green’],0,1,0,0,0
+green3_179,[‘green’],0,1,0,0,0
+green3_180,[‘green’],0,1,0,0,0
+green3_181,[‘green’],0,1,0,0,0
+green3_182,[‘green’],0,1,0,0,0
+green3_183,[‘green’],0,1,0,0,0
+green3_184,[‘green’],0,1,0,0,0
+green3_185,[‘green’],0,1,0,0,0
+green3_186,[‘green’],0,1,0,0,0
+green3_187,[‘green’],0,1,0,0,0
+green3_188,[‘green’],0,1,0,0,0
+green3_189,[‘green’],0,1,0,0,0
+green3_190,[‘green’],0,1,0,0,0
+green3_191,[‘green’],0,1,0,0,0
+green3_192,[‘green’],0,1,0,0,0
+green3_193,[‘green’],0,1,0,0,0
+green3_194,[‘green’],0,1,0,0,0
+green3_195,[‘green’],0,1,0,0,0
+green3_196,[‘green’],0,1,0,0,0
+green3_197,[‘green’],0,1,0,0,0
+green3_198,[‘green’],0,1,0,0,0
+green3_199,[‘green’],0,1,0,0,0
+green3_200,[‘green’],0,1,0,0,0
+green3_201,[‘green’],0,1,0,0,0
+green3_202,[‘green’],0,1,0,0,0
+green3_203,[‘green’],0,1,0,0,0
+green3_204,[‘green’],0,1,0,0,0
+green3_205,[‘green’],0,1,0,0,0
+green3_206,[‘green’],0,1,0,0,0
+green3_207,[‘green’],0,1,0,0,0
+green3_208,[‘green’],0,1,0,0,0
+green3_209,[‘green’],0,1,0,0,0
+green3_210,[‘green’],0,1,0,0,0
+green3_211,[‘green’],0,1,0,0,0
+green3_212,[‘green’],0,1,0,0,0
+green3_213,[‘green’],0,1,0,0,0
+green3_214,[‘green’],0,1,0,0,0
+green3_215,[‘green’],0,1,0,0,0
+green3_216,[‘green’],0,1,0,0,0
+green3_217,[‘green’],0,1,0,0,0
+green3_218,[‘green’],0,1,0,0,0
+green3_219,[‘green’],0,1,0,0,0
+green3_220,[‘green’],0,1,0,0,0
+green3_221,[‘green’],0,1,0,0,0
+green3_222,[‘green’],0,1,0,0,0
+green3_223,[‘green’],0,1,0,0,0
+green3_224,[‘green’],0,1,0,0,0
+green3_225,[‘green’],0,1,0,0,0
+green3_226,[‘green’],0,1,0,0,0
+green3_227,[‘green’],0,1,0,0,0
+green3_228,[‘green’],0,1,0,0,0
+green3_229,[‘green’],0,1,0,0,0
+green3_230,[‘green’],0,1,0,0,0
+green3_231,[‘green’],0,1,0,0,0
+green3_232,[‘green’],0,1,0,0,0
+green3_233,[‘green’],0,1,0,0,0
+green3_234,[‘green’],0,1,0,0,0
+green3_235,[‘green’],0,1,0,0,0
+green3_236,[‘green’],0,1,0,0,0
+green3_237,[‘green’],0,1,0,0,0
+green3_238,[‘green’],0,1,0,0,0
+green3_239,[‘green’],0,1,0,0,0
+green3_240,[‘green’],0,1,0,0,0
+green3_241,[‘green’],0,1,0,0,0
+green3_242,[‘green’],0,1,0,0,0
+green3_243,[‘green’],0,1,0,0,0
+green3_244,[‘green’],0,1,0,0,0
+green3_245,[‘green’],0,1,0,0,0
+green3_246,[‘green’],0,1,0,0,0
+green3_247,[‘green’],0,1,0,0,0
+green3_248,[‘green’],0,1,0,0,0
+green3_249,[‘green’],0,1,0,0,0
+green3_250,[‘green’],0,1,0,0,0
+green3_251,[‘green’],0,1,0,0,0
+green3_252,[‘green’],0,1,0,0,0
+green3_253,[‘green’],0,1,0,0,0
+green3_254,[‘green’],0,1,0,0,0
+green3_255,[‘green’],0,1,0,0,0
+green3_256,[‘green’],0,1,0,0,0
+green3_257,[‘green’],0,1,0,0,0
+green3_258,[‘green’],0,1,0,0,0
+green3_259,[‘green’],0,1,0,0,0
+green3_260,[‘green’],0,1,0,0,0
+green3_261,[‘green’],0,1,0,0,0
+green3_262,[‘green’],0,1,0,0,0
+green3_263,[‘green’],0,1,0,0,0
+green3_264,[‘green’],0,1,0,0,0
+green3_265,[‘green’],0,1,0,0,0
+green3_266,[‘green’],0,1,0,0,0
+green3_267,[‘green’],0,1,0,0,0
+green3_268,[‘green’],0,1,0,0,0
+green3_269,[‘green’],0,1,0,0,0
+green3_270,[‘green’],0,1,0,0,0
+green3_271,[‘green’],0,1,0,0,0
+green3_272,[‘green’],0,1,0,0,0
+green3_273,[‘green’],0,1,0,0,0
+green3_274,[‘green’],0,1,0,0,0
+green3_275,[‘green’],0,1,0,0,0
+green3_276,[‘green’],0,1,0,0,0
+green3_277,[‘green’],0,1,0,0,0
+green3_278,[‘green’],0,1,0,0,0
+green3_279,[‘green’],0,1,0,0,0
+green3_280,[‘green’],0,1,0,0,0
+green3_281,[‘green’],0,1,0,0,0
+green3_282,[‘green’],0,1,0,0,0
+green3_283,[‘green’],0,1,0,0,0
+green3_284,[‘green’],0,1,0,0,0
+green3_285,[‘green’],0,1,0,0,0
+green3_286,[‘green’],0,1,0,0,0
+green3_287,[‘green’],0,1,0,0,0
+green3_288,[‘green’],0,1,0,0,0
+green3_289,[‘green’],0,1,0,0,0
+green3_290,[‘green’],0,1,0,0,0
+green3_291,[‘green’],0,1,0,0,0
+green3_292,[‘green’],0,1,0,0,0
+green3_293,[‘green’],0,1,0,0,0
+green3_294,[‘green’],0,1,0,0,0
+green3_295,[‘green’],0,1,0,0,0
+green3_296,[‘green’],0,1,0,0,0
+green3_297,[‘green’],0,1,0,0,0
+green3_298,[‘green’],0,1,0,0,0
+green3_299,[‘green’],0,1,0,0,0
+green3_300,[‘green’],0,1,0,0,0
+green3_301,[‘green’],0,1,0,0,0
+green3_302,[‘green’],0,1,0,0,0
+green3_303,[‘green’],0,1,0,0,0
+green3_304,[‘green’],0,1,0,0,0
+green3_305,[‘green’],0,1,0,0,0
+green3_306,[‘green’],0,1,0,0,0
+green3_307,[‘green’],0,1,0,0,0
+green3_308,[‘green’],0,1,0,0,0
+green3_309,[‘green’],0,1,0,0,0
+green3_310,[‘green’],0,1,0,0,0
+green3_311,[‘green’],0,1,0,0,0
+green3_312,[‘green’],0,1,0,0,0
+green3_313,[‘green’],0,1,0,0,0
+green3_314,[‘green’],0,1,0,0,0
+green3_315,[‘green’],0,1,0,0,0
+green3_316,[‘green’],0,1,0,0,0
+green3_317,[‘green’],0,1,0,0,0
+green3_318,[‘green’],0,1,0,0,0
+green3_319,[‘green’],0,1,0,0,0
+green3_320,[‘green’],0,1,0,0,0
+green3_321,[‘green’],0,1,0,0,0
+green3_322,[‘green’],0,1,0,0,0
+green3_323,[‘green’],0,1,0,0,0
+green3_324,[‘green’],0,1,0,0,0
+green3_325,[‘green’],0,1,0,0,0
+green3_326,[‘green’],0,1,0,0,0
+green3_327,[‘green’],0,1,0,0,0
+green3_328,[‘green’],0,1,0,0,0
+green3_329,[‘green’],0,1,0,0,0
+green3_330,[‘green’],0,1,0,0,0
+green3_331,[‘green’],0,1,0,0,0
+green3_332,[‘green’],0,1,0,0,0
+green3_333,[‘green’],0,1,0,0,0
+green3_334,[‘green’],0,1,0,0,0
+green3_335,[‘green’],0,1,0,0,0
+green3_336,[‘green’],0,1,0,0,0
+green3_337,[‘green’],0,1,0,0,0
+green3_338,[‘green’],0,1,0,0,0
+green3_339,[‘green’],0,1,0,0,0
+green3_340,[‘green’],0,1,0,0,0
+green3_341,[‘green’],0,1,0,0,0
+green3_342,[‘green’],0,1,0,0,0
+green3_343,[‘green’],0,1,0,0,0
+green3_344,[‘green’],0,1,0,0,0
+green3_345,[‘green’],0,1,0,0,0
+green3_346,[‘green’],0,1,0,0,0
+green3_347,[‘green’],0,1,0,0,0
+green3_348,[‘green’],0,1,0,0,0
+green3_349,[‘green’],0,1,0,0,0
+green3_350,[‘green’],0,1,0,0,0
+green3_351,[‘green’],0,1,0,0,0
+green3_352,[‘green’],0,1,0,0,0
+green3_353,[‘green’],0,1,0,0,0
+green3_354,[‘green’],0,1,0,0,0
+green3_355,[‘green’],0,1,0,0,0
+green3_356,[‘green’],0,1,0,0,0
+green3_357,[‘green’],0,1,0,0,0
+green3_358,[‘green’],0,1,0,0,0
+green3_359,[‘green’],0,1,0,0,0
+green3_360,[‘green’],0,1,0,0,0
+green3_361,[‘green’],0,1,0,0,0
+green3_362,[‘green’],0,1,0,0,0
+green3_363,[‘green’],0,1,0,0,0
+green3_364,[‘green’],0,1,0,0,0
+green3_365,[‘green’],0,1,0,0,0
+green3_366,[‘green’],0,1,0,0,0
+green3_367,[‘green’],0,1,0,0,0
+green3_368,[‘green’],0,1,0,0,0
+green3_369,[‘green’],0,1,0,0,0
+green3_370,[‘green’],0,1,0,0,0
+green3_371,[‘green’],0,1,0,0,0
+green3_372,[‘green’],0,1,0,0,0
+green3_373,[‘green’],0,1,0,0,0
+green3_374,[‘green’],0,1,0,0,0
+green3_375,[‘green’],0,1,0,0,0
+green3_376,[‘green’],0,1,0,0,0
+green3_377,[‘green’],0,1,0,0,0
+green3_378,[‘green’],0,1,0,0,0
+green3_379,[‘green’],0,1,0,0,0
+green3_380,[‘green’],0,1,0,0,0
+green3_381,[‘green’],0,1,0,0,0
+green3_382,[‘green’],0,1,0,0,0
+green3_383,[‘green’],0,1,0,0,0
+green3_384,[‘green’],0,1,0,0,0
+green3_385,[‘green’],0,1,0,0,0
+green3_386,[‘green’],0,1,0,0,0
+green3_387,[‘green’],0,1,0,0,0
+green3_388,[‘green’],0,1,0,0,0
+green3_389,[‘green’],0,1,0,0,0
+green3_390,[‘green’],0,1,0,0,0
+green3_391,[‘green’],0,1,0,0,0
+green3_392,[‘green’],0,1,0,0,0
+green3_393,[‘green’],0,1,0,0,0
+green3_394,[‘green’],0,1,0,0,0
+green3_395,[‘green’],0,1,0,0,0
+green3_396,[‘green’],0,1,0,0,0
+green3_397,[‘green’],0,1,0,0,0
+green3_398,[‘green’],0,1,0,0,0
+green3_399,[‘green’],0,1,0,0,0
+green3_400,[‘green’],0,1,0,0,0
+green3_401,[‘green’],0,1,0,0,0
+green3_402,[‘green’],0,1,0,0,0
+green3_403,[‘green’],0,1,0,0,0
+green3_404,[‘green’],0,1,0,0,0
+green3_405,[‘green’],0,1,0,0,0
+green3_406,[‘green’],0,1,0,0,0
+green3_407,[‘green’],0,1,0,0,0
+green3_408,[‘green’],0,1,0,0,0
+green3_409,[‘green’],0,1,0,0,0
+green3_410,[‘green’],0,1,0,0,0
+green3_411,[‘green’],0,1,0,0,0
+green3_412,[‘green’],0,1,0,0,0
+green3_413,[‘green’],0,1,0,0,0
+green3_414,[‘green’],0,1,0,0,0
+green3_415,[‘green’],0,1,0,0,0
+green3_416,[‘green’],0,1,0,0,0
+green3_417,[‘green’],0,1,0,0,0
+green3_418,[‘green’],0,1,0,0,0
+green3_419,[‘green’],0,1,0,0,0
+green3_420,[‘green’],0,1,0,0,0
+green3_421,[‘green’],0,1,0,0,0
+green3_422,[‘green’],0,1,0,0,0
+green3_423,[‘green’],0,1,0,0,0
+green3_424,[‘green’],0,1,0,0,0
+green3_425,[‘green’],0,1,0,0,0
+green3_426,[‘green’],0,1,0,0,0
+green3_427,[‘green’],0,1,0,0,0
+green3_428,[‘green’],0,1,0,0,0
+green3_429,[‘green’],0,1,0,0,0
+green3_430,[‘green’],0,1,0,0,0
+green3_431,[‘green’],0,1,0,0,0
+green3_432,[‘green’],0,1,0,0,0
+green3_433,[‘green’],0,1,0,0,0
+green3_434,[‘green’],0,1,0,0,0
+green3_435,[‘green’],0,1,0,0,0
+green3_436,[‘green’],0,1,0,0,0
+green3_437,[‘green’],0,1,0,0,0
+green3_438,[‘green’],0,1,0,0,0
+green3_439,[‘green’],0,1,0,0,0
+green3_440,[‘green’],0,1,0,0,0
+green3_441,[‘green’],0,1,0,0,0
+green3_442,[‘green’],0,1,0,0,0
+green3_443,[‘green’],0,1,0,0,0
+green3_444,[‘green’],0,1,0,0,0
+green3_445,[‘green’],0,1,0,0,0
+green3_446,[‘green’],0,1,0,0,0
+green3_447,[‘green’],0,1,0,0,0
+green3_448,[‘green’],0,1,0,0,0
+green3_449,[‘green’],0,1,0,0,0
+green3_450,[‘green’],0,1,0,0,0
+green3_451,[‘green’],0,1,0,0,0
+green3_452,[‘green’],0,1,0,0,0
+green3_453,[‘green’],0,1,0,0,0
+green3_454,[‘green’],0,1,0,0,0
+green3_455,[‘green’],0,1,0,0,0
+green3_456,[‘green’],0,1,0,0,0
+green3_457,[‘green’],0,1,0,0,0
+green3_458,[‘green’],0,1,0,0,0
+green3_459,[‘green’],0,1,0,0,0
+green3_460,[‘green’],0,1,0,0,0
+green3_461,[‘green’],0,1,0,0,0
+green3_462,[‘green’],0,1,0,0,0
+green3_463,[‘green’],0,1,0,0,0
+green3_464,[‘green’],0,1,0,0,0
+green3_465,[‘green’],0,1,0,0,0
+green3_466,[‘green’],0,1,0,0,0
+green3_467,[‘green’],0,1,0,0,0
+green3_468,[‘green’],0,1,0,0,0
+green3_469,[‘green’],0,1,0,0,0
+green3_470,[‘green’],0,1,0,0,0
+green3_471,[‘green’],0,1,0,0,0
+green3_472,[‘green’],0,1,0,0,0
+green3_473,[‘green’],0,1,0,0,0
+green3_474,[‘green’],0,1,0,0,0
+green3_475,[‘green’],0,1,0,0,0
+green3_476,[‘green’],0,1,0,0,0
+green3_477,[‘green’],0,1,0,0,0
+green3_478,[‘green’],0,1,0,0,0
+green3_479,[‘green’],0,1,0,0,0
+green3_480,[‘green’],0,1,0,0,0
+green3_481,[‘green’],0,1,0,0,0
+green3_482,[‘green’],0,1,0,0,0
+green3_483,[‘green’],0,1,0,0,0
+green3_484,[‘green’],0,1,0,0,0
+green3_485,[‘green’],0,1,0,0,0
+green3_486,[‘green’],0,1,0,0,0
+green3_487,[‘green’],0,1,0,0,0
+green3_488,[‘green’],0,1,0,0,0
+green3_489,[‘green’],0,1,0,0,0
+green3_490,[‘green’],0,1,0,0,0
+green3_491,[‘green’],0,1,0,0,0
+green3_492,[‘green’],0,1,0,0,0
+green3_493,[‘green’],0,1,0,0,0
+green3_494,[‘green’],0,1,0,0,0
+green3_495,[‘green’],0,1,0,0,0
+green3_496,[‘green’],0,1,0,0,0
+green3_497,[‘green’],0,1,0,0,0
+green3_498,[‘green’],0,1,0,0,0
+green3_499,[‘green’],0,1,0,0,0
+green3_500,[‘green’],0,1,0,0,0
+green4_1,[‘green’],0,1,0,0,0
+green4_2,[‘green’],0,1,0,0,0
+green4_3,[‘green’],0,1,0,0,0
+green4_4,[‘green’],0,1,0,0,0
+green4_5,[‘green’],0,1,0,0,0
+green4_6,[‘green’],0,1,0,0,0
+green4_7,[‘green’],0,1,0,0,0
+green4_8,[‘green’],0,1,0,0,0
+green4_9,[‘green’],0,1,0,0,0
+green4_10,[‘green’],0,1,0,0,0
+green4_11,[‘green’],0,1,0,0,0
+green4_12,[‘green’],0,1,0,0,0
+green4_13,[‘green’],0,1,0,0,0
+green4_14,[‘green’],0,1,0,0,0
+green4_15,[‘green’],0,1,0,0,0
+green4_16,[‘green’],0,1,0,0,0
+green4_17,[‘green’],0,1,0,0,0
+green4_18,[‘green’],0,1,0,0,0
+green4_19,[‘green’],0,1,0,0,0
+green4_20,[‘green’],0,1,0,0,0
+green4_21,[‘green’],0,1,0,0,0
+green4_22,[‘green’],0,1,0,0,0
+green4_23,[‘green’],0,1,0,0,0
+green4_24,[‘green’],0,1,0,0,0
+green4_25,[‘green’],0,1,0,0,0
+green4_26,[‘green’],0,1,0,0,0
+green4_27,[‘green’],0,1,0,0,0
+green4_28,[‘green’],0,1,0,0,0
+green4_29,[‘green’],0,1,0,0,0
+green4_30,[‘green’],0,1,0,0,0
+green4_31,[‘green’],0,1,0,0,0
+green4_32,[‘green’],0,1,0,0,0
+green4_33,[‘green’],0,1,0,0,0
+green4_34,[‘green’],0,1,0,0,0
+green4_35,[‘green’],0,1,0,0,0
+green4_36,[‘green’],0,1,0,0,0
+green4_37,[‘green’],0,1,0,0,0
+green4_38,[‘green’],0,1,0,0,0
+green4_39,[‘green’],0,1,0,0,0
+green4_40,[‘green’],0,1,0,0,0
+green4_41,[‘green’],0,1,0,0,0
+green4_42,[‘green’],0,1,0,0,0
+green4_43,[‘green’],0,1,0,0,0
+green4_44,[‘green’],0,1,0,0,0
+green4_45,[‘green’],0,1,0,0,0
+green4_46,[‘green’],0,1,0,0,0
+green4_47,[‘green’],0,1,0,0,0
+green4_48,[‘green’],0,1,0,0,0
+green4_49,[‘green’],0,1,0,0,0
+green4_50,[‘green’],0,1,0,0,0
+green4_51,[‘green’],0,1,0,0,0
+green4_52,[‘green’],0,1,0,0,0
+green4_53,[‘green’],0,1,0,0,0
+green4_54,[‘green’],0,1,0,0,0
+green4_55,[‘green’],0,1,0,0,0
+green4_56,[‘green’],0,1,0,0,0
+green4_57,[‘green’],0,1,0,0,0
+green4_58,[‘green’],0,1,0,0,0
+green4_59,[‘green’],0,1,0,0,0
+green4_60,[‘green’],0,1,0,0,0
+green4_61,[‘green’],0,1,0,0,0
+green4_62,[‘green’],0,1,0,0,0
+green4_63,[‘green’],0,1,0,0,0
+green4_64,[‘green’],0,1,0,0,0
+green4_65,[‘green’],0,1,0,0,0
+green4_66,[‘green’],0,1,0,0,0
+green4_67,[‘green’],0,1,0,0,0
+green4_68,[‘green’],0,1,0,0,0
+green4_69,[‘green’],0,1,0,0,0
+green4_70,[‘green’],0,1,0,0,0
+green4_71,[‘green’],0,1,0,0,0
+green4_72,[‘green’],0,1,0,0,0
+green4_73,[‘green’],0,1,0,0,0
+green4_74,[‘green’],0,1,0,0,0
+green4_75,[‘green’],0,1,0,0,0
+green4_76,[‘green’],0,1,0,0,0
+green4_77,[‘green’],0,1,0,0,0
+green4_78,[‘green’],0,1,0,0,0
+green4_79,[‘green’],0,1,0,0,0
+green4_80,[‘green’],0,1,0,0,0
+green4_81,[‘green’],0,1,0,0,0
+green4_82,[‘green’],0,1,0,0,0
+green4_83,[‘green’],0,1,0,0,0
+green4_84,[‘green’],0,1,0,0,0
+green4_85,[‘green’],0,1,0,0,0
+green4_86,[‘green’],0,1,0,0,0
+green4_87,[‘green’],0,1,0,0,0
+green4_88,[‘green’],0,1,0,0,0
+green4_89,[‘green’],0,1,0,0,0
+green4_90,[‘green’],0,1,0,0,0
+green4_91,[‘green’],0,1,0,0,0
+green4_92,[‘green’],0,1,0,0,0
+green4_93,[‘green’],0,1,0,0,0
+green4_94,[‘green’],0,1,0,0,0
+green4_95,[‘green’],0,1,0,0,0
+green4_96,[‘green’],0,1,0,0,0
+green4_97,[‘green’],0,1,0,0,0
+green4_98,[‘green’],0,1,0,0,0
+green4_99,[‘green’],0,1,0,0,0
+green4_100,[‘green’],0,1,0,0,0
+green4_101,[‘green’],0,1,0,0,0
+green4_102,[‘green’],0,1,0,0,0
+green4_103,[‘green’],0,1,0,0,0
+green4_104,[‘green’],0,1,0,0,0
+green4_105,[‘green’],0,1,0,0,0
+green4_106,[‘green’],0,1,0,0,0
+green4_107,[‘green’],0,1,0,0,0
+green4_108,[‘green’],0,1,0,0,0
+green4_109,[‘green’],0,1,0,0,0
+green4_110,[‘green’],0,1,0,0,0
+green4_111,[‘green’],0,1,0,0,0
+green4_112,[‘green’],0,1,0,0,0
+green4_113,[‘green’],0,1,0,0,0
+green4_114,[‘green’],0,1,0,0,0
+green4_115,[‘green’],0,1,0,0,0
+green4_116,[‘green’],0,1,0,0,0
+green4_117,[‘green’],0,1,0,0,0
+green4_118,[‘green’],0,1,0,0,0
+green4_119,[‘green’],0,1,0,0,0
+green4_120,[‘green’],0,1,0,0,0
+green4_121,[‘green’],0,1,0,0,0
+green4_122,[‘green’],0,1,0,0,0
+green4_123,[‘green’],0,1,0,0,0
+green4_124,[‘green’],0,1,0,0,0
+green4_125,[‘green’],0,1,0,0,0
+green4_126,[‘green’],0,1,0,0,0
+green4_127,[‘green’],0,1,0,0,0
+green4_128,[‘green’],0,1,0,0,0
+green4_129,[‘green’],0,1,0,0,0
+green4_130,[‘green’],0,1,0,0,0
+green4_131,[‘green’],0,1,0,0,0
+green4_132,[‘green’],0,1,0,0,0
+green4_133,[‘green’],0,1,0,0,0
+green4_134,[‘green’],0,1,0,0,0
+green4_135,[‘green’],0,1,0,0,0
+green4_136,[‘green’],0,1,0,0,0
+green4_137,[‘green’],0,1,0,0,0
+green4_138,[‘green’],0,1,0,0,0
+green4_139,[‘green’],0,1,0,0,0
+green4_140,[‘green’],0,1,0,0,0
+green4_141,[‘green’],0,1,0,0,0
+green4_142,[‘green’],0,1,0,0,0
+green4_143,[‘green’],0,1,0,0,0
+green4_144,[‘green’],0,1,0,0,0
+green4_145,[‘green’],0,1,0,0,0
+green4_146,[‘green’],0,1,0,0,0
+green4_147,[‘green’],0,1,0,0,0
+green4_148,[‘green’],0,1,0,0,0
+green4_149,[‘green’],0,1,0,0,0
+green4_150,[‘green’],0,1,0,0,0
+green4_151,[‘green’],0,1,0,0,0
+green4_152,[‘green’],0,1,0,0,0
+green4_153,[‘green’],0,1,0,0,0
+green4_154,[‘green’],0,1,0,0,0
+green4_155,[‘green’],0,1,0,0,0
+green4_156,[‘green’],0,1,0,0,0
+green4_157,[‘green’],0,1,0,0,0
+green4_158,[‘green’],0,1,0,0,0
+green4_159,[‘green’],0,1,0,0,0
+green4_160,[‘green’],0,1,0,0,0
+green4_161,[‘green’],0,1,0,0,0
+green4_162,[‘green’],0,1,0,0,0
+green4_163,[‘green’],0,1,0,0,0
+green4_164,[‘green’],0,1,0,0,0
+green4_165,[‘green’],0,1,0,0,0
+green4_166,[‘green’],0,1,0,0,0
+green4_167,[‘green’],0,1,0,0,0
+green4_168,[‘green’],0,1,0,0,0
+green4_169,[‘green’],0,1,0,0,0
+green4_170,[‘green’],0,1,0,0,0
+green4_171,[‘green’],0,1,0,0,0
+green4_172,[‘green’],0,1,0,0,0
+green4_173,[‘green’],0,1,0,0,0
+green4_174,[‘green’],0,1,0,0,0
+green4_175,[‘green’],0,1,0,0,0
+green4_176,[‘green’],0,1,0,0,0
+green4_177,[‘green’],0,1,0,0,0
+green4_178,[‘green’],0,1,0,0,0
+green4_179,[‘green’],0,1,0,0,0
+green4_180,[‘green’],0,1,0,0,0
+green4_181,[‘green’],0,1,0,0,0
+green4_182,[‘green’],0,1,0,0,0
+green4_183,[‘green’],0,1,0,0,0
+green4_184,[‘green’],0,1,0,0,0
+green4_185,[‘green’],0,1,0,0,0
+green4_186,[‘green’],0,1,0,0,0
+green4_187,[‘green’],0,1,0,0,0
+green4_188,[‘green’],0,1,0,0,0
+green4_189,[‘green’],0,1,0,0,0
+green4_190,[‘green’],0,1,0,0,0
+green4_191,[‘green’],0,1,0,0,0
+green4_192,[‘green’],0,1,0,0,0
+green4_193,[‘green’],0,1,0,0,0
+green4_194,[‘green’],0,1,0,0,0
+green4_195,[‘green’],0,1,0,0,0
+green4_196,[‘green’],0,1,0,0,0
+green4_197,[‘green’],0,1,0,0,0
+green4_198,[‘green’],0,1,0,0,0
+green4_199,[‘green’],0,1,0,0,0
+green4_200,[‘green’],0,1,0,0,0
+green4_201,[‘green’],0,1,0,0,0
+green4_202,[‘green’],0,1,0,0,0
+green4_203,[‘green’],0,1,0,0,0
+green4_204,[‘green’],0,1,0,0,0
+green4_205,[‘green’],0,1,0,0,0
+green4_206,[‘green’],0,1,0,0,0
+green4_207,[‘green’],0,1,0,0,0
+green4_208,[‘green’],0,1,0,0,0
+green4_209,[‘green’],0,1,0,0,0
+green4_210,[‘green’],0,1,0,0,0
+green4_211,[‘green’],0,1,0,0,0
+green4_212,[‘green’],0,1,0,0,0
+green4_213,[‘green’],0,1,0,0,0
+green4_214,[‘green’],0,1,0,0,0
+green4_215,[‘green’],0,1,0,0,0
+green4_216,[‘green’],0,1,0,0,0
+green4_217,[‘green’],0,1,0,0,0
+green4_218,[‘green’],0,1,0,0,0
+green4_219,[‘green’],0,1,0,0,0
+green4_220,[‘green’],0,1,0,0,0
+green4_221,[‘green’],0,1,0,0,0
+green4_222,[‘green’],0,1,0,0,0
+green4_223,[‘green’],0,1,0,0,0
+green4_224,[‘green’],0,1,0,0,0
+green4_225,[‘green’],0,1,0,0,0
+green4_226,[‘green’],0,1,0,0,0
+green4_227,[‘green’],0,1,0,0,0
+green4_228,[‘green’],0,1,0,0,0
+green4_229,[‘green’],0,1,0,0,0
+green4_230,[‘green’],0,1,0,0,0
+green4_231,[‘green’],0,1,0,0,0
+green4_232,[‘green’],0,1,0,0,0
+green4_233,[‘green’],0,1,0,0,0
+green4_234,[‘green’],0,1,0,0,0
+green4_235,[‘green’],0,1,0,0,0
+green4_236,[‘green’],0,1,0,0,0
+green4_237,[‘green’],0,1,0,0,0
+green4_238,[‘green’],0,1,0,0,0
+green4_239,[‘green’],0,1,0,0,0
+green4_240,[‘green’],0,1,0,0,0
+green4_241,[‘green’],0,1,0,0,0
+green4_242,[‘green’],0,1,0,0,0
+green4_243,[‘green’],0,1,0,0,0
+green4_244,[‘green’],0,1,0,0,0
+green4_245,[‘green’],0,1,0,0,0
+green4_246,[‘green’],0,1,0,0,0
+green4_247,[‘green’],0,1,0,0,0
+green4_248,[‘green’],0,1,0,0,0
+green4_249,[‘green’],0,1,0,0,0
+green4_250,[‘green’],0,1,0,0,0
+green4_251,[‘green’],0,1,0,0,0
+green4_252,[‘green’],0,1,0,0,0
+green4_253,[‘green’],0,1,0,0,0
+green4_254,[‘green’],0,1,0,0,0
+green4_255,[‘green’],0,1,0,0,0
+green4_256,[‘green’],0,1,0,0,0
+green4_257,[‘green’],0,1,0,0,0
+green4_258,[‘green’],0,1,0,0,0
+green4_259,[‘green’],0,1,0,0,0
+green4_260,[‘green’],0,1,0,0,0
+green4_261,[‘green’],0,1,0,0,0
+green4_262,[‘green’],0,1,0,0,0
+green4_263,[‘green’],0,1,0,0,0
+green4_264,[‘green’],0,1,0,0,0
+green4_265,[‘green’],0,1,0,0,0
+green4_266,[‘green’],0,1,0,0,0
+green4_267,[‘green’],0,1,0,0,0
+green4_268,[‘green’],0,1,0,0,0
+green4_269,[‘green’],0,1,0,0,0
+green4_270,[‘green’],0,1,0,0,0
+green4_271,[‘green’],0,1,0,0,0
+green4_272,[‘green’],0,1,0,0,0
+green4_273,[‘green’],0,1,0,0,0
+green4_274,[‘green’],0,1,0,0,0
+green4_275,[‘green’],0,1,0,0,0
+green4_276,[‘green’],0,1,0,0,0
+green4_277,[‘green’],0,1,0,0,0
+green4_278,[‘green’],0,1,0,0,0
+green4_279,[‘green’],0,1,0,0,0
+green4_280,[‘green’],0,1,0,0,0
+green4_281,[‘green’],0,1,0,0,0
+green4_282,[‘green’],0,1,0,0,0
+green4_283,[‘green’],0,1,0,0,0
+green4_284,[‘green’],0,1,0,0,0
+green4_285,[‘green’],0,1,0,0,0
+green4_286,[‘green’],0,1,0,0,0
+green4_287,[‘green’],0,1,0,0,0
+green4_288,[‘green’],0,1,0,0,0
+green4_289,[‘green’],0,1,0,0,0
+green4_290,[‘green’],0,1,0,0,0
+green4_291,[‘green’],0,1,0,0,0
+green4_292,[‘green’],0,1,0,0,0
+green4_293,[‘green’],0,1,0,0,0
+green4_294,[‘green’],0,1,0,0,0
+green4_295,[‘green’],0,1,0,0,0
+green4_296,[‘green’],0,1,0,0,0
+green4_297,[‘green’],0,1,0,0,0
+green4_298,[‘green’],0,1,0,0,0
+green4_299,[‘green’],0,1,0,0,0
+green4_300,[‘green’],0,1,0,0,0
+green4_301,[‘green’],0,1,0,0,0
+green4_302,[‘green’],0,1,0,0,0
+green4_303,[‘green’],0,1,0,0,0
+green4_304,[‘green’],0,1,0,0,0
+green4_305,[‘green’],0,1,0,0,0
+green4_306,[‘green’],0,1,0,0,0
+green4_307,[‘green’],0,1,0,0,0
+green4_308,[‘green’],0,1,0,0,0
+green4_309,[‘green’],0,1,0,0,0
+green4_310,[‘green’],0,1,0,0,0
+green4_311,[‘green’],0,1,0,0,0
+green4_312,[‘green’],0,1,0,0,0
+green4_313,[‘green’],0,1,0,0,0
+green4_314,[‘green’],0,1,0,0,0
+green4_315,[‘green’],0,1,0,0,0
+green4_316,[‘green’],0,1,0,0,0
+green4_317,[‘green’],0,1,0,0,0
+green4_318,[‘green’],0,1,0,0,0
+green4_319,[‘green’],0,1,0,0,0
+green4_320,[‘green’],0,1,0,0,0
+green4_321,[‘green’],0,1,0,0,0
+green4_322,[‘green’],0,1,0,0,0
+green4_323,[‘green’],0,1,0,0,0
+green4_324,[‘green’],0,1,0,0,0
+green4_325,[‘green’],0,1,0,0,0
+green4_326,[‘green’],0,1,0,0,0
+green4_327,[‘green’],0,1,0,0,0
+green4_328,[‘green’],0,1,0,0,0
+green4_329,[‘green’],0,1,0,0,0
+green4_330,[‘green’],0,1,0,0,0
+green4_331,[‘green’],0,1,0,0,0
+green4_332,[‘green’],0,1,0,0,0
+green4_333,[‘green’],0,1,0,0,0
+green4_334,[‘green’],0,1,0,0,0
+green4_335,[‘green’],0,1,0,0,0
+green4_336,[‘green’],0,1,0,0,0
+green4_337,[‘green’],0,1,0,0,0
+green4_338,[‘green’],0,1,0,0,0
+green4_339,[‘green’],0,1,0,0,0
+green4_340,[‘green’],0,1,0,0,0
+green4_341,[‘green’],0,1,0,0,0
+green4_342,[‘green’],0,1,0,0,0
+green4_343,[‘green’],0,1,0,0,0
+green4_344,[‘green’],0,1,0,0,0
+green4_345,[‘green’],0,1,0,0,0
+green4_346,[‘green’],0,1,0,0,0
+green4_347,[‘green’],0,1,0,0,0
+green4_348,[‘green’],0,1,0,0,0
+green4_349,[‘green’],0,1,0,0,0
+green4_350,[‘green’],0,1,0,0,0
+green4_351,[‘green’],0,1,0,0,0
+green4_352,[‘green’],0,1,0,0,0
+green4_353,[‘green’],0,1,0,0,0
+green4_354,[‘green’],0,1,0,0,0
+green4_355,[‘green’],0,1,0,0,0
+green4_356,[‘green’],0,1,0,0,0
+green4_357,[‘green’],0,1,0,0,0
+green4_358,[‘green’],0,1,0,0,0
+green4_359,[‘green’],0,1,0,0,0
+green4_360,[‘green’],0,1,0,0,0
+green4_361,[‘green’],0,1,0,0,0
+green4_362,[‘green’],0,1,0,0,0
+green4_363,[‘green’],0,1,0,0,0
+green4_364,[‘green’],0,1,0,0,0
+green4_365,[‘green’],0,1,0,0,0
+green4_366,[‘green’],0,1,0,0,0
+green4_367,[‘green’],0,1,0,0,0
+green4_368,[‘green’],0,1,0,0,0
+green4_369,[‘green’],0,1,0,0,0
+green4_370,[‘green’],0,1,0,0,0
+green4_371,[‘green’],0,1,0,0,0
+green4_372,[‘green’],0,1,0,0,0
+green4_373,[‘green’],0,1,0,0,0
+green4_374,[‘green’],0,1,0,0,0
+green4_375,[‘green’],0,1,0,0,0
+green4_376,[‘green’],0,1,0,0,0
+green4_377,[‘green’],0,1,0,0,0
+green4_378,[‘green’],0,1,0,0,0
+green4_379,[‘green’],0,1,0,0,0
+green4_380,[‘green’],0,1,0,0,0
+green4_381,[‘green’],0,1,0,0,0
+green4_382,[‘green’],0,1,0,0,0
+green4_383,[‘green’],0,1,0,0,0
+green4_384,[‘green’],0,1,0,0,0
+green4_385,[‘green’],0,1,0,0,0
+green4_386,[‘green’],0,1,0,0,0
+green4_387,[‘green’],0,1,0,0,0
+green4_388,[‘green’],0,1,0,0,0
+green4_389,[‘green’],0,1,0,0,0
+green4_390,[‘green’],0,1,0,0,0
+green4_391,[‘green’],0,1,0,0,0
+green4_392,[‘green’],0,1,0,0,0
+green4_393,[‘green’],0,1,0,0,0
+green4_394,[‘green’],0,1,0,0,0
+green4_395,[‘green’],0,1,0,0,0
+green4_396,[‘green’],0,1,0,0,0
+green4_397,[‘green’],0,1,0,0,0
+green4_398,[‘green’],0,1,0,0,0
+green4_399,[‘green’],0,1,0,0,0
+green4_400,[‘green’],0,1,0,0,0
+green4_401,[‘green’],0,1,0,0,0
+green4_402,[‘green’],0,1,0,0,0
+green4_403,[‘green’],0,1,0,0,0
+green4_404,[‘green’],0,1,0,0,0
+green4_405,[‘green’],0,1,0,0,0
+green4_406,[‘green’],0,1,0,0,0
+green4_407,[‘green’],0,1,0,0,0
+green4_408,[‘green’],0,1,0,0,0
+green4_409,[‘green’],0,1,0,0,0
+green4_410,[‘green’],0,1,0,0,0
+green4_411,[‘green’],0,1,0,0,0
+green4_412,[‘green’],0,1,0,0,0
+green4_413,[‘green’],0,1,0,0,0
+green4_414,[‘green’],0,1,0,0,0
+green4_415,[‘green’],0,1,0,0,0
+green4_416,[‘green’],0,1,0,0,0
+green4_417,[‘green’],0,1,0,0,0
+green4_418,[‘green’],0,1,0,0,0
+green4_419,[‘green’],0,1,0,0,0
+green4_420,[‘green’],0,1,0,0,0
+green4_421,[‘green’],0,1,0,0,0
+green4_422,[‘green’],0,1,0,0,0
+green4_423,[‘green’],0,1,0,0,0
+green4_424,[‘green’],0,1,0,0,0
+green4_425,[‘green’],0,1,0,0,0
+green4_426,[‘green’],0,1,0,0,0
+green4_427,[‘green’],0,1,0,0,0
+green4_428,[‘green’],0,1,0,0,0
+green4_429,[‘green’],0,1,0,0,0
+green4_430,[‘green’],0,1,0,0,0
+green4_431,[‘green’],0,1,0,0,0
+green4_432,[‘green’],0,1,0,0,0
+green4_433,[‘green’],0,1,0,0,0
+green4_434,[‘green’],0,1,0,0,0
+green4_435,[‘green’],0,1,0,0,0
+green4_436,[‘green’],0,1,0,0,0
+green4_437,[‘green’],0,1,0,0,0
+green4_438,[‘green’],0,1,0,0,0
+green4_439,[‘green’],0,1,0,0,0
+green4_440,[‘green’],0,1,0,0,0
+green4_441,[‘green’],0,1,0,0,0
+green4_442,[‘green’],0,1,0,0,0
+green4_443,[‘green’],0,1,0,0,0
+green4_444,[‘green’],0,1,0,0,0
+green4_445,[‘green’],0,1,0,0,0
+green4_446,[‘green’],0,1,0,0,0
+green4_447,[‘green’],0,1,0,0,0
+green4_448,[‘green’],0,1,0,0,0
+green4_449,[‘green’],0,1,0,0,0
+green4_450,[‘green’],0,1,0,0,0
+green4_451,[‘green’],0,1,0,0,0
+green4_452,[‘green’],0,1,0,0,0
+green4_453,[‘green’],0,1,0,0,0
+green4_454,[‘green’],0,1,0,0,0
+green4_455,[‘green’],0,1,0,0,0
+green4_456,[‘green’],0,1,0,0,0
+green4_457,[‘green’],0,1,0,0,0
+green4_458,[‘green’],0,1,0,0,0
+green4_459,[‘green’],0,1,0,0,0
+green4_460,[‘green’],0,1,0,0,0
+green4_461,[‘green’],0,1,0,0,0
+green4_462,[‘green’],0,1,0,0,0
+green4_463,[‘green’],0,1,0,0,0
+green4_464,[‘green’],0,1,0,0,0
+green4_465,[‘green’],0,1,0,0,0
+green4_466,[‘green’],0,1,0,0,0
+green4_467,[‘green’],0,1,0,0,0
+green4_468,[‘green’],0,1,0,0,0
+green4_469,[‘green’],0,1,0,0,0
+green4_470,[‘green’],0,1,0,0,0
+green4_471,[‘green’],0,1,0,0,0
+green4_472,[‘green’],0,1,0,0,0
+green4_473,[‘green’],0,1,0,0,0
+green4_474,[‘green’],0,1,0,0,0
+green4_475,[‘green’],0,1,0,0,0
+green4_476,[‘green’],0,1,0,0,0
+green4_477,[‘green’],0,1,0,0,0
+green4_478,[‘green’],0,1,0,0,0
+green4_479,[‘green’],0,1,0,0,0
+green4_480,[‘green’],0,1,0,0,0
+green4_481,[‘green’],0,1,0,0,0
+green4_482,[‘green’],0,1,0,0,0
+green4_483,[‘green’],0,1,0,0,0
+green4_484,[‘green’],0,1,0,0,0
+green4_485,[‘green’],0,1,0,0,0
+green4_486,[‘green’],0,1,0,0,0
+green4_487,[‘green’],0,1,0,0,0
+green4_488,[‘green’],0,1,0,0,0
+green4_489,[‘green’],0,1,0,0,0
+green4_490,[‘green’],0,1,0,0,0
+green4_491,[‘green’],0,1,0,0,0
+green4_492,[‘green’],0,1,0,0,0
+green4_493,[‘green’],0,1,0,0,0
+green4_494,[‘green’],0,1,0,0,0
+green4_495,[‘green’],0,1,0,0,0
+green4_496,[‘green’],0,1,0,0,0
+green4_497,[‘green’],0,1,0,0,0
+green4_498,[‘green’],0,1,0,0,0
+green4_499,[‘green’],0,1,0,0,0
+green4_500,[‘green’],0,1,0,0,0
+greenarrow_1,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_2,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_3,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_4,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_5,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_6,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_7,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_8,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_9,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_10,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_11,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_12,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_13,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_14,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_15,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_16,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_17,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_18,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_19,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_20,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_21,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_22,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_23,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_24,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_25,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_26,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_27,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_28,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_29,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_30,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_31,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_32,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_33,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_34,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_35,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_36,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_37,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_38,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_39,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_40,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_41,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_42,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_43,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_44,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_45,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_46,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_47,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_48,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_49,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_50,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_51,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_52,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_53,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_54,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_55,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_56,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_57,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_58,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_59,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_60,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_61,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_62,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_63,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_64,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_65,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_66,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_67,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_68,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_69,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_70,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_71,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_72,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_73,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_74,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_75,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_76,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_77,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_78,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_79,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_80,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_81,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_82,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_83,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_84,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_85,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_86,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_87,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_88,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_89,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_90,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_91,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_92,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_93,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_94,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_95,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_96,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_97,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_98,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_99,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_100,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_101,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_102,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_103,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_104,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_105,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_106,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_107,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_108,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_109,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_110,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_111,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_112,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_113,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_114,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_115,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_116,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_117,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_118,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_119,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_120,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_121,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_122,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_123,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_124,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_125,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_126,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_127,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_128,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_129,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_130,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_131,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_132,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_133,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_134,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_135,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_136,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_137,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_138,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_139,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_140,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_141,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_142,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_143,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_144,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_145,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_146,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_147,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_148,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_149,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_150,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_151,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_152,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_153,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_154,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_155,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_156,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_157,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_158,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_159,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_160,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_161,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_162,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_163,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_164,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_165,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_166,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_167,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_168,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_169,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_170,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_171,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_172,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_173,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_174,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_175,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_176,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_177,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_178,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_179,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_180,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_181,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_182,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_183,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_184,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_185,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_186,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_187,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_188,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_189,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_190,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_191,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_192,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_193,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_194,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_195,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_196,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_197,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_198,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_199,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_200,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_201,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_202,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_203,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_204,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_205,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_206,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_207,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_208,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_209,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_210,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_211,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_212,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_213,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_214,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_215,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_216,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_217,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_218,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_219,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_220,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_221,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_222,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_223,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_224,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_225,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_226,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_227,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_228,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_229,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_230,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_231,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_232,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_233,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_234,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_235,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_236,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_237,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_238,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_239,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_240,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_241,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_242,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_243,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_244,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_245,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_246,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_247,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_248,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_249,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_250,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_251,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_252,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_253,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_254,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_255,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_256,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_257,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_258,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_259,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_260,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_261,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_262,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_263,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_264,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_265,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_266,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_267,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_268,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_269,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_270,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_271,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_272,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_273,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_274,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_275,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_276,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_277,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_278,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_279,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_280,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_281,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_282,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_283,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_284,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_285,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_286,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_287,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_288,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_289,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_290,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_291,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_292,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_293,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_294,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_295,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_296,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_297,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_298,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_299,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_300,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_301,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_302,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_303,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_304,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_305,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_306,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_307,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_308,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_309,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_310,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_311,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_312,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_313,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_314,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_315,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_316,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_317,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_318,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_319,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_320,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_321,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_322,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_323,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_324,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_325,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_326,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_327,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_328,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_329,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_330,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_331,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_332,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_333,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_334,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_335,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_336,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_337,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_338,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_339,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_340,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_341,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_342,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_343,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_344,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_345,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_346,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_347,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_348,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_349,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_350,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_351,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_352,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_353,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_354,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_355,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_356,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_357,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_358,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_359,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_360,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_361,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_362,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_363,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_364,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_365,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_366,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_367,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_368,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_369,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_370,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_371,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_372,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_373,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_374,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_375,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_376,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_377,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_378,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_379,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_380,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_381,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_382,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_383,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_384,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_385,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_386,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_387,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_388,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_389,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_390,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_391,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_392,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_393,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_394,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_395,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_396,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_397,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_398,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_399,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_400,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_401,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_402,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_403,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_404,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_405,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_406,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_407,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_408,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_409,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_410,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_411,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_412,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_413,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_414,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_415,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_416,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_417,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_418,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_419,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_420,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_421,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_422,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_423,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_424,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_425,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_426,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_427,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_428,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_429,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_430,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_431,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_432,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_433,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_434,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_435,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_436,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_437,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_438,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_439,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_440,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_441,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_442,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_443,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_444,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_445,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_446,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_447,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_448,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_449,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_450,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_451,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_452,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_453,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_454,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_455,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_456,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_457,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_458,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_459,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_460,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_461,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_462,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_463,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_464,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_465,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_466,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_467,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_468,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_469,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_470,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_471,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_472,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_473,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_474,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_475,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_476,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_477,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_478,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_479,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_480,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_481,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_482,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_483,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_484,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_485,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_486,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_487,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_488,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_489,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_490,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_491,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_492,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_493,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_494,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_495,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_496,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_497,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_498,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_499,"[‘green’,’arrow’]",0,1,1,0,0
+greenarrow_500,"[‘green’,’arrow’]",0,1,1,0,0
+red3_1,[‘red’],0,0,0,1,0
+red3_2,[‘red’],0,0,0,1,0
+red3_3,[‘red’],0,0,0,1,0
+red3_4,[‘red’],0,0,0,1,0
+red3_5,[‘red’],0,0,0,1,0
+red3_6,[‘red’],0,0,0,1,0
+red3_7,[‘red’],0,0,0,1,0
+red3_8,[‘red’],0,0,0,1,0
+red3_9,[‘red’],0,0,0,1,0
+red3_10,[‘red’],0,0,0,1,0
+red3_11,[‘red’],0,0,0,1,0
+red3_12,[‘red’],0,0,0,1,0
+red3_13,[‘red’],0,0,0,1,0
+red3_14,[‘red’],0,0,0,1,0
+red3_15,[‘red’],0,0,0,1,0
+red3_16,[‘red’],0,0,0,1,0
+red3_17,[‘red’],0,0,0,1,0
+red3_18,[‘red’],0,0,0,1,0
+red3_19,[‘red’],0,0,0,1,0
+red3_20,[‘red’],0,0,0,1,0
+red3_21,[‘red’],0,0,0,1,0
+red3_22,[‘red’],0,0,0,1,0
+red3_23,[‘red’],0,0,0,1,0
+red3_24,[‘red’],0,0,0,1,0
+red3_25,[‘red’],0,0,0,1,0
+red3_26,[‘red’],0,0,0,1,0
+red3_27,[‘red’],0,0,0,1,0
+red3_28,[‘red’],0,0,0,1,0
+red3_29,[‘red’],0,0,0,1,0
+red3_30,[‘red’],0,0,0,1,0
+red3_31,[‘red’],0,0,0,1,0
+red3_32,[‘red’],0,0,0,1,0
+red3_33,[‘red’],0,0,0,1,0
+red3_34,[‘red’],0,0,0,1,0
+red3_35,[‘red’],0,0,0,1,0
+red3_36,[‘red’],0,0,0,1,0
+red3_37,[‘red’],0,0,0,1,0
+red3_38,[‘red’],0,0,0,1,0
+red3_39,[‘red’],0,0,0,1,0
+red3_40,[‘red’],0,0,0,1,0
+red3_41,[‘red’],0,0,0,1,0
+red3_42,[‘red’],0,0,0,1,0
+red3_43,[‘red’],0,0,0,1,0
+red3_44,[‘red’],0,0,0,1,0
+red3_45,[‘red’],0,0,0,1,0
+red3_46,[‘red’],0,0,0,1,0
+red3_47,[‘red’],0,0,0,1,0
+red3_48,[‘red’],0,0,0,1,0
+red3_49,[‘red’],0,0,0,1,0
+red3_50,[‘red’],0,0,0,1,0
+red3_51,[‘red’],0,0,0,1,0
+red3_52,[‘red’],0,0,0,1,0
+red3_53,[‘red’],0,0,0,1,0
+red3_54,[‘red’],0,0,0,1,0
+red3_55,[‘red’],0,0,0,1,0
+red3_56,[‘red’],0,0,0,1,0
+red3_57,[‘red’],0,0,0,1,0
+red3_58,[‘red’],0,0,0,1,0
+red3_59,[‘red’],0,0,0,1,0
+red3_60,[‘red’],0,0,0,1,0
+red3_61,[‘red’],0,0,0,1,0
+red3_62,[‘red’],0,0,0,1,0
+red3_63,[‘red’],0,0,0,1,0
+red3_64,[‘red’],0,0,0,1,0
+red3_65,[‘red’],0,0,0,1,0
+red3_66,[‘red’],0,0,0,1,0
+red3_67,[‘red’],0,0,0,1,0
+red3_68,[‘red’],0,0,0,1,0
+red3_69,[‘red’],0,0,0,1,0
+red3_70,[‘red’],0,0,0,1,0
+red3_71,[‘red’],0,0,0,1,0
+red3_72,[‘red’],0,0,0,1,0
+red3_73,[‘red’],0,0,0,1,0
+red3_74,[‘red’],0,0,0,1,0
+red3_75,[‘red’],0,0,0,1,0
+red3_76,[‘red’],0,0,0,1,0
+red3_77,[‘red’],0,0,0,1,0
+red3_78,[‘red’],0,0,0,1,0
+red3_79,[‘red’],0,0,0,1,0
+red3_80,[‘red’],0,0,0,1,0
+red3_81,[‘red’],0,0,0,1,0
+red3_82,[‘red’],0,0,0,1,0
+red3_83,[‘red’],0,0,0,1,0
+red3_84,[‘red’],0,0,0,1,0
+red3_85,[‘red’],0,0,0,1,0
+red3_86,[‘red’],0,0,0,1,0
+red3_87,[‘red’],0,0,0,1,0
+red3_88,[‘red’],0,0,0,1,0
+red3_89,[‘red’],0,0,0,1,0
+red3_90,[‘red’],0,0,0,1,0
+red3_91,[‘red’],0,0,0,1,0
+red3_92,[‘red’],0,0,0,1,0
+red3_93,[‘red’],0,0,0,1,0
+red3_94,[‘red’],0,0,0,1,0
+red3_95,[‘red’],0,0,0,1,0
+red3_96,[‘red’],0,0,0,1,0
+red3_97,[‘red’],0,0,0,1,0
+red3_98,[‘red’],0,0,0,1,0
+red3_99,[‘red’],0,0,0,1,0
+red3_100,[‘red’],0,0,0,1,0
+red3_101,[‘red’],0,0,0,1,0
+red3_102,[‘red’],0,0,0,1,0
+red3_103,[‘red’],0,0,0,1,0
+red3_104,[‘red’],0,0,0,1,0
+red3_105,[‘red’],0,0,0,1,0
+red3_106,[‘red’],0,0,0,1,0
+red3_107,[‘red’],0,0,0,1,0
+red3_108,[‘red’],0,0,0,1,0
+red3_109,[‘red’],0,0,0,1,0
+red3_110,[‘red’],0,0,0,1,0
+red3_111,[‘red’],0,0,0,1,0
+red3_112,[‘red’],0,0,0,1,0
+red3_113,[‘red’],0,0,0,1,0
+red3_114,[‘red’],0,0,0,1,0
+red3_115,[‘red’],0,0,0,1,0
+red3_116,[‘red’],0,0,0,1,0
+red3_117,[‘red’],0,0,0,1,0
+red3_118,[‘red’],0,0,0,1,0
+red3_119,[‘red’],0,0,0,1,0
+red3_120,[‘red’],0,0,0,1,0
+red3_121,[‘red’],0,0,0,1,0
+red3_122,[‘red’],0,0,0,1,0
+red3_123,[‘red’],0,0,0,1,0
+red3_124,[‘red’],0,0,0,1,0
+red3_125,[‘red’],0,0,0,1,0
+red3_126,[‘red’],0,0,0,1,0
+red3_127,[‘red’],0,0,0,1,0
+red3_128,[‘red’],0,0,0,1,0
+red3_129,[‘red’],0,0,0,1,0
+red3_130,[‘red’],0,0,0,1,0
+red3_131,[‘red’],0,0,0,1,0
+red3_132,[‘red’],0,0,0,1,0
+red3_133,[‘red’],0,0,0,1,0
+red3_134,[‘red’],0,0,0,1,0
+red3_135,[‘red’],0,0,0,1,0
+red3_136,[‘red’],0,0,0,1,0
+red3_137,[‘red’],0,0,0,1,0
+red3_138,[‘red’],0,0,0,1,0
+red3_139,[‘red’],0,0,0,1,0
+red3_140,[‘red’],0,0,0,1,0
+red3_141,[‘red’],0,0,0,1,0
+red3_142,[‘red’],0,0,0,1,0
+red3_143,[‘red’],0,0,0,1,0
+red3_144,[‘red’],0,0,0,1,0
+red3_145,[‘red’],0,0,0,1,0
+red3_146,[‘red’],0,0,0,1,0
+red3_147,[‘red’],0,0,0,1,0
+red3_148,[‘red’],0,0,0,1,0
+red3_149,[‘red’],0,0,0,1,0
+red3_150,[‘red’],0,0,0,1,0
+red3_151,[‘red’],0,0,0,1,0
+red3_152,[‘red’],0,0,0,1,0
+red3_153,[‘red’],0,0,0,1,0
+red3_154,[‘red’],0,0,0,1,0
+red3_155,[‘red’],0,0,0,1,0
+red3_156,[‘red’],0,0,0,1,0
+red3_157,[‘red’],0,0,0,1,0
+red3_158,[‘red’],0,0,0,1,0
+red3_159,[‘red’],0,0,0,1,0
+red3_160,[‘red’],0,0,0,1,0
+red3_161,[‘red’],0,0,0,1,0
+red3_162,[‘red’],0,0,0,1,0
+red3_163,[‘red’],0,0,0,1,0
+red3_164,[‘red’],0,0,0,1,0
+red3_165,[‘red’],0,0,0,1,0
+red3_166,[‘red’],0,0,0,1,0
+red3_167,[‘red’],0,0,0,1,0
+red3_168,[‘red’],0,0,0,1,0
+red3_169,[‘red’],0,0,0,1,0
+red3_170,[‘red’],0,0,0,1,0
+red3_171,[‘red’],0,0,0,1,0
+red3_172,[‘red’],0,0,0,1,0
+red3_173,[‘red’],0,0,0,1,0
+red3_174,[‘red’],0,0,0,1,0
+red3_175,[‘red’],0,0,0,1,0
+red3_176,[‘red’],0,0,0,1,0
+red3_177,[‘red’],0,0,0,1,0
+red3_178,[‘red’],0,0,0,1,0
+red3_179,[‘red’],0,0,0,1,0
+red3_180,[‘red’],0,0,0,1,0
+red3_181,[‘red’],0,0,0,1,0
+red3_182,[‘red’],0,0,0,1,0
+red3_183,[‘red’],0,0,0,1,0
+red3_184,[‘red’],0,0,0,1,0
+red3_185,[‘red’],0,0,0,1,0
+red3_186,[‘red’],0,0,0,1,0
+red3_187,[‘red’],0,0,0,1,0
+red3_188,[‘red’],0,0,0,1,0
+red3_189,[‘red’],0,0,0,1,0
+red3_190,[‘red’],0,0,0,1,0
+red3_191,[‘red’],0,0,0,1,0
+red3_192,[‘red’],0,0,0,1,0
+red3_193,[‘red’],0,0,0,1,0
+red3_194,[‘red’],0,0,0,1,0
+red3_195,[‘red’],0,0,0,1,0
+red3_196,[‘red’],0,0,0,1,0
+red3_197,[‘red’],0,0,0,1,0
+red3_198,[‘red’],0,0,0,1,0
+red3_199,[‘red’],0,0,0,1,0
+red3_200,[‘red’],0,0,0,1,0
+red3_201,[‘red’],0,0,0,1,0
+red3_202,[‘red’],0,0,0,1,0
+red3_203,[‘red’],0,0,0,1,0
+red3_204,[‘red’],0,0,0,1,0
+red3_205,[‘red’],0,0,0,1,0
+red3_206,[‘red’],0,0,0,1,0
+red3_207,[‘red’],0,0,0,1,0
+red3_208,[‘red’],0,0,0,1,0
+red3_209,[‘red’],0,0,0,1,0
+red3_210,[‘red’],0,0,0,1,0
+red3_211,[‘red’],0,0,0,1,0
+red3_212,[‘red’],0,0,0,1,0
+red3_213,[‘red’],0,0,0,1,0
+red3_214,[‘red’],0,0,0,1,0
+red3_215,[‘red’],0,0,0,1,0
+red3_216,[‘red’],0,0,0,1,0
+red3_217,[‘red’],0,0,0,1,0
+red3_218,[‘red’],0,0,0,1,0
+red3_219,[‘red’],0,0,0,1,0
+red3_220,[‘red’],0,0,0,1,0
+red3_221,[‘red’],0,0,0,1,0
+red3_222,[‘red’],0,0,0,1,0
+red3_223,[‘red’],0,0,0,1,0
+red3_224,[‘red’],0,0,0,1,0
+red3_225,[‘red’],0,0,0,1,0
+red3_226,[‘red’],0,0,0,1,0
+red3_227,[‘red’],0,0,0,1,0
+red3_228,[‘red’],0,0,0,1,0
+red3_229,[‘red’],0,0,0,1,0
+red3_230,[‘red’],0,0,0,1,0
+red3_231,[‘red’],0,0,0,1,0
+red3_232,[‘red’],0,0,0,1,0
+red3_233,[‘red’],0,0,0,1,0
+red3_234,[‘red’],0,0,0,1,0
+red3_235,[‘red’],0,0,0,1,0
+red3_236,[‘red’],0,0,0,1,0
+red3_237,[‘red’],0,0,0,1,0
+red3_238,[‘red’],0,0,0,1,0
+red3_239,[‘red’],0,0,0,1,0
+red3_240,[‘red’],0,0,0,1,0
+red3_241,[‘red’],0,0,0,1,0
+red3_242,[‘red’],0,0,0,1,0
+red3_243,[‘red’],0,0,0,1,0
+red3_244,[‘red’],0,0,0,1,0
+red3_245,[‘red’],0,0,0,1,0
+red3_246,[‘red’],0,0,0,1,0
+red3_247,[‘red’],0,0,0,1,0
+red3_248,[‘red’],0,0,0,1,0
+red3_249,[‘red’],0,0,0,1,0
+red3_250,[‘red’],0,0,0,1,0
+red3_251,[‘red’],0,0,0,1,0
+red3_252,[‘red’],0,0,0,1,0
+red3_253,[‘red’],0,0,0,1,0
+red3_254,[‘red’],0,0,0,1,0
+red3_255,[‘red’],0,0,0,1,0
+red3_256,[‘red’],0,0,0,1,0
+red3_257,[‘red’],0,0,0,1,0
+red3_258,[‘red’],0,0,0,1,0
+red3_259,[‘red’],0,0,0,1,0
+red3_260,[‘red’],0,0,0,1,0
+red3_261,[‘red’],0,0,0,1,0
+red3_262,[‘red’],0,0,0,1,0
+red3_263,[‘red’],0,0,0,1,0
+red3_264,[‘red’],0,0,0,1,0
+red3_265,[‘red’],0,0,0,1,0
+red3_266,[‘red’],0,0,0,1,0
+red3_267,[‘red’],0,0,0,1,0
+red3_268,[‘red’],0,0,0,1,0
+red3_269,[‘red’],0,0,0,1,0
+red3_270,[‘red’],0,0,0,1,0
+red3_271,[‘red’],0,0,0,1,0
+red3_272,[‘red’],0,0,0,1,0
+red3_273,[‘red’],0,0,0,1,0
+red3_274,[‘red’],0,0,0,1,0
+red3_275,[‘red’],0,0,0,1,0
+red3_276,[‘red’],0,0,0,1,0
+red3_277,[‘red’],0,0,0,1,0
+red3_278,[‘red’],0,0,0,1,0
+red3_279,[‘red’],0,0,0,1,0
+red3_280,[‘red’],0,0,0,1,0
+red3_281,[‘red’],0,0,0,1,0
+red3_282,[‘red’],0,0,0,1,0
+red3_283,[‘red’],0,0,0,1,0
+red3_284,[‘red’],0,0,0,1,0
+red3_285,[‘red’],0,0,0,1,0
+red3_286,[‘red’],0,0,0,1,0
+red3_287,[‘red’],0,0,0,1,0
+red3_288,[‘red’],0,0,0,1,0
+red3_289,[‘red’],0,0,0,1,0
+red3_290,[‘red’],0,0,0,1,0
+red3_291,[‘red’],0,0,0,1,0
+red3_292,[‘red’],0,0,0,1,0
+red3_293,[‘red’],0,0,0,1,0
+red3_294,[‘red’],0,0,0,1,0
+red3_295,[‘red’],0,0,0,1,0
+red3_296,[‘red’],0,0,0,1,0
+red3_297,[‘red’],0,0,0,1,0
+red3_298,[‘red’],0,0,0,1,0
+red3_299,[‘red’],0,0,0,1,0
+red3_300,[‘red’],0,0,0,1,0
+red3_301,[‘red’],0,0,0,1,0
+red3_302,[‘red’],0,0,0,1,0
+red3_303,[‘red’],0,0,0,1,0
+red3_304,[‘red’],0,0,0,1,0
+red3_305,[‘red’],0,0,0,1,0
+red3_306,[‘red’],0,0,0,1,0
+red3_307,[‘red’],0,0,0,1,0
+red3_308,[‘red’],0,0,0,1,0
+red3_309,[‘red’],0,0,0,1,0
+red3_310,[‘red’],0,0,0,1,0
+red3_311,[‘red’],0,0,0,1,0
+red3_312,[‘red’],0,0,0,1,0
+red3_313,[‘red’],0,0,0,1,0
+red3_314,[‘red’],0,0,0,1,0
+red3_315,[‘red’],0,0,0,1,0
+red3_316,[‘red’],0,0,0,1,0
+red3_317,[‘red’],0,0,0,1,0
+red3_318,[‘red’],0,0,0,1,0
+red3_319,[‘red’],0,0,0,1,0
+red3_320,[‘red’],0,0,0,1,0
+red3_321,[‘red’],0,0,0,1,0
+red3_322,[‘red’],0,0,0,1,0
+red3_323,[‘red’],0,0,0,1,0
+red3_324,[‘red’],0,0,0,1,0
+red3_325,[‘red’],0,0,0,1,0
+red3_326,[‘red’],0,0,0,1,0
+red3_327,[‘red’],0,0,0,1,0
+red3_328,[‘red’],0,0,0,1,0
+red3_329,[‘red’],0,0,0,1,0
+red3_330,[‘red’],0,0,0,1,0
+red3_331,[‘red’],0,0,0,1,0
+red3_332,[‘red’],0,0,0,1,0
+red3_333,[‘red’],0,0,0,1,0
+red3_334,[‘red’],0,0,0,1,0
+red3_335,[‘red’],0,0,0,1,0
+red3_336,[‘red’],0,0,0,1,0
+red3_337,[‘red’],0,0,0,1,0
+red3_338,[‘red’],0,0,0,1,0
+red3_339,[‘red’],0,0,0,1,0
+red3_340,[‘red’],0,0,0,1,0
+red3_341,[‘red’],0,0,0,1,0
+red3_342,[‘red’],0,0,0,1,0
+red3_343,[‘red’],0,0,0,1,0
+red3_344,[‘red’],0,0,0,1,0
+red3_345,[‘red’],0,0,0,1,0
+red3_346,[‘red’],0,0,0,1,0
+red3_347,[‘red’],0,0,0,1,0
+red3_348,[‘red’],0,0,0,1,0
+red3_349,[‘red’],0,0,0,1,0
+red3_350,[‘red’],0,0,0,1,0
+red3_351,[‘red’],0,0,0,1,0
+red3_352,[‘red’],0,0,0,1,0
+red3_353,[‘red’],0,0,0,1,0
+red3_354,[‘red’],0,0,0,1,0
+red3_355,[‘red’],0,0,0,1,0
+red3_356,[‘red’],0,0,0,1,0
+red3_357,[‘red’],0,0,0,1,0
+red3_358,[‘red’],0,0,0,1,0
+red3_359,[‘red’],0,0,0,1,0
+red3_360,[‘red’],0,0,0,1,0
+red3_361,[‘red’],0,0,0,1,0
+red3_362,[‘red’],0,0,0,1,0
+red3_363,[‘red’],0,0,0,1,0
+red3_364,[‘red’],0,0,0,1,0
+red3_365,[‘red’],0,0,0,1,0
+red3_366,[‘red’],0,0,0,1,0
+red3_367,[‘red’],0,0,0,1,0
+red3_368,[‘red’],0,0,0,1,0
+red3_369,[‘red’],0,0,0,1,0
+red3_370,[‘red’],0,0,0,1,0
+red3_371,[‘red’],0,0,0,1,0
+red3_372,[‘red’],0,0,0,1,0
+red3_373,[‘red’],0,0,0,1,0
+red3_374,[‘red’],0,0,0,1,0
+red3_375,[‘red’],0,0,0,1,0
+red3_376,[‘red’],0,0,0,1,0
+red3_377,[‘red’],0,0,0,1,0
+red3_378,[‘red’],0,0,0,1,0
+red3_379,[‘red’],0,0,0,1,0
+red3_380,[‘red’],0,0,0,1,0
+red3_381,[‘red’],0,0,0,1,0
+red3_382,[‘red’],0,0,0,1,0
+red3_383,[‘red’],0,0,0,1,0
+red3_384,[‘red’],0,0,0,1,0
+red3_385,[‘red’],0,0,0,1,0
+red3_386,[‘red’],0,0,0,1,0
+red3_387,[‘red’],0,0,0,1,0
+red3_388,[‘red’],0,0,0,1,0
+red3_389,[‘red’],0,0,0,1,0
+red3_390,[‘red’],0,0,0,1,0
+red3_391,[‘red’],0,0,0,1,0
+red3_392,[‘red’],0,0,0,1,0
+red3_393,[‘red’],0,0,0,1,0
+red3_394,[‘red’],0,0,0,1,0
+red3_395,[‘red’],0,0,0,1,0
+red3_396,[‘red’],0,0,0,1,0
+red3_397,[‘red’],0,0,0,1,0
+red3_398,[‘red’],0,0,0,1,0
+red3_399,[‘red’],0,0,0,1,0
+red3_400,[‘red’],0,0,0,1,0
+red3_401,[‘red’],0,0,0,1,0
+red3_402,[‘red’],0,0,0,1,0
+red3_403,[‘red’],0,0,0,1,0
+red3_404,[‘red’],0,0,0,1,0
+red3_405,[‘red’],0,0,0,1,0
+red3_406,[‘red’],0,0,0,1,0
+red3_407,[‘red’],0,0,0,1,0
+red3_408,[‘red’],0,0,0,1,0
+red3_409,[‘red’],0,0,0,1,0
+red3_410,[‘red’],0,0,0,1,0
+red3_411,[‘red’],0,0,0,1,0
+red3_412,[‘red’],0,0,0,1,0
+red3_413,[‘red’],0,0,0,1,0
+red3_414,[‘red’],0,0,0,1,0
+red3_415,[‘red’],0,0,0,1,0
+red3_416,[‘red’],0,0,0,1,0
+red3_417,[‘red’],0,0,0,1,0
+red3_418,[‘red’],0,0,0,1,0
+red3_419,[‘red’],0,0,0,1,0
+red3_420,[‘red’],0,0,0,1,0
+red3_421,[‘red’],0,0,0,1,0
+red3_422,[‘red’],0,0,0,1,0
+red3_423,[‘red’],0,0,0,1,0
+red3_424,[‘red’],0,0,0,1,0
+red3_425,[‘red’],0,0,0,1,0
+red3_426,[‘red’],0,0,0,1,0
+red3_427,[‘red’],0,0,0,1,0
+red3_428,[‘red’],0,0,0,1,0
+red3_429,[‘red’],0,0,0,1,0
+red3_430,[‘red’],0,0,0,1,0
+red3_431,[‘red’],0,0,0,1,0
+red3_432,[‘red’],0,0,0,1,0
+red3_433,[‘red’],0,0,0,1,0
+red3_434,[‘red’],0,0,0,1,0
+red3_435,[‘red’],0,0,0,1,0
+red3_436,[‘red’],0,0,0,1,0
+red3_437,[‘red’],0,0,0,1,0
+red3_438,[‘red’],0,0,0,1,0
+red3_439,[‘red’],0,0,0,1,0
+red3_440,[‘red’],0,0,0,1,0
+red3_441,[‘red’],0,0,0,1,0
+red3_442,[‘red’],0,0,0,1,0
+red3_443,[‘red’],0,0,0,1,0
+red3_444,[‘red’],0,0,0,1,0
+red3_445,[‘red’],0,0,0,1,0
+red3_446,[‘red’],0,0,0,1,0
+red3_447,[‘red’],0,0,0,1,0
+red3_448,[‘red’],0,0,0,1,0
+red3_449,[‘red’],0,0,0,1,0
+red3_450,[‘red’],0,0,0,1,0
+red3_451,[‘red’],0,0,0,1,0
+red3_452,[‘red’],0,0,0,1,0
+red3_453,[‘red’],0,0,0,1,0
+red3_454,[‘red’],0,0,0,1,0
+red3_455,[‘red’],0,0,0,1,0
+red3_456,[‘red’],0,0,0,1,0
+red3_457,[‘red’],0,0,0,1,0
+red3_458,[‘red’],0,0,0,1,0
+red3_459,[‘red’],0,0,0,1,0
+red3_460,[‘red’],0,0,0,1,0
+red3_461,[‘red’],0,0,0,1,0
+red3_462,[‘red’],0,0,0,1,0
+red3_463,[‘red’],0,0,0,1,0
+red3_464,[‘red’],0,0,0,1,0
+red3_465,[‘red’],0,0,0,1,0
+red3_466,[‘red’],0,0,0,1,0
+red3_467,[‘red’],0,0,0,1,0
+red3_468,[‘red’],0,0,0,1,0
+red3_469,[‘red’],0,0,0,1,0
+red3_470,[‘red’],0,0,0,1,0
+red3_471,[‘red’],0,0,0,1,0
+red3_472,[‘red’],0,0,0,1,0
+red3_473,[‘red’],0,0,0,1,0
+red3_474,[‘red’],0,0,0,1,0
+red3_475,[‘red’],0,0,0,1,0
+red3_476,[‘red’],0,0,0,1,0
+red3_477,[‘red’],0,0,0,1,0
+red3_478,[‘red’],0,0,0,1,0
+red3_479,[‘red’],0,0,0,1,0
+red3_480,[‘red’],0,0,0,1,0
+red3_481,[‘red’],0,0,0,1,0
+red3_482,[‘red’],0,0,0,1,0
+red3_483,[‘red’],0,0,0,1,0
+red3_484,[‘red’],0,0,0,1,0
+red3_485,[‘red’],0,0,0,1,0
+red3_486,[‘red’],0,0,0,1,0
+red3_487,[‘red’],0,0,0,1,0
+red3_488,[‘red’],0,0,0,1,0
+red3_489,[‘red’],0,0,0,1,0
+red3_490,[‘red’],0,0,0,1,0
+red3_491,[‘red’],0,0,0,1,0
+red3_492,[‘red’],0,0,0,1,0
+red3_493,[‘red’],0,0,0,1,0
+red3_494,[‘red’],0,0,0,1,0
+red3_495,[‘red’],0,0,0,1,0
+red3_496,[‘red’],0,0,0,1,0
+red3_497,[‘red’],0,0,0,1,0
+red3_498,[‘red’],0,0,0,1,0
+red3_499,[‘red’],0,0,0,1,0
+red3_500,[‘red’],0,0,0,1,0
+red4_1,[‘red’],0,0,0,1,0
+red4_2,[‘red’],0,0,0,1,0
+red4_3,[‘red’],0,0,0,1,0
+red4_4,[‘red’],0,0,0,1,0
+red4_5,[‘red’],0,0,0,1,0
+red4_6,[‘red’],0,0,0,1,0
+red4_7,[‘red’],0,0,0,1,0
+red4_8,[‘red’],0,0,0,1,0
+red4_9,[‘red’],0,0,0,1,0
+red4_10,[‘red’],0,0,0,1,0
+red4_11,[‘red’],0,0,0,1,0
+red4_12,[‘red’],0,0,0,1,0
+red4_13,[‘red’],0,0,0,1,0
+red4_14,[‘red’],0,0,0,1,0
+red4_15,[‘red’],0,0,0,1,0
+red4_16,[‘red’],0,0,0,1,0
+red4_17,[‘red’],0,0,0,1,0
+red4_18,[‘red’],0,0,0,1,0
+red4_19,[‘red’],0,0,0,1,0
+red4_20,[‘red’],0,0,0,1,0
+red4_21,[‘red’],0,0,0,1,0
+red4_22,[‘red’],0,0,0,1,0
+red4_23,[‘red’],0,0,0,1,0
+red4_24,[‘red’],0,0,0,1,0
+red4_25,[‘red’],0,0,0,1,0
+red4_26,[‘red’],0,0,0,1,0
+red4_27,[‘red’],0,0,0,1,0
+red4_28,[‘red’],0,0,0,1,0
+red4_29,[‘red’],0,0,0,1,0
+red4_30,[‘red’],0,0,0,1,0
+red4_31,[‘red’],0,0,0,1,0
+red4_32,[‘red’],0,0,0,1,0
+red4_33,[‘red’],0,0,0,1,0
+red4_34,[‘red’],0,0,0,1,0
+red4_35,[‘red’],0,0,0,1,0
+red4_36,[‘red’],0,0,0,1,0
+red4_37,[‘red’],0,0,0,1,0
+red4_38,[‘red’],0,0,0,1,0
+red4_39,[‘red’],0,0,0,1,0
+red4_40,[‘red’],0,0,0,1,0
+red4_41,[‘red’],0,0,0,1,0
+red4_42,[‘red’],0,0,0,1,0
+red4_43,[‘red’],0,0,0,1,0
+red4_44,[‘red’],0,0,0,1,0
+red4_45,[‘red’],0,0,0,1,0
+red4_46,[‘red’],0,0,0,1,0
+red4_47,[‘red’],0,0,0,1,0
+red4_48,[‘red’],0,0,0,1,0
+red4_49,[‘red’],0,0,0,1,0
+red4_50,[‘red’],0,0,0,1,0
+red4_51,[‘red’],0,0,0,1,0
+red4_52,[‘red’],0,0,0,1,0
+red4_53,[‘red’],0,0,0,1,0
+red4_54,[‘red’],0,0,0,1,0
+red4_55,[‘red’],0,0,0,1,0
+red4_56,[‘red’],0,0,0,1,0
+red4_57,[‘red’],0,0,0,1,0
+red4_58,[‘red’],0,0,0,1,0
+red4_59,[‘red’],0,0,0,1,0
+red4_60,[‘red’],0,0,0,1,0
+red4_61,[‘red’],0,0,0,1,0
+red4_62,[‘red’],0,0,0,1,0
+red4_63,[‘red’],0,0,0,1,0
+red4_64,[‘red’],0,0,0,1,0
+red4_65,[‘red’],0,0,0,1,0
+red4_66,[‘red’],0,0,0,1,0
+red4_67,[‘red’],0,0,0,1,0
+red4_68,[‘red’],0,0,0,1,0
+red4_69,[‘red’],0,0,0,1,0
+red4_70,[‘red’],0,0,0,1,0
+red4_71,[‘red’],0,0,0,1,0
+red4_72,[‘red’],0,0,0,1,0
+red4_73,[‘red’],0,0,0,1,0
+red4_74,[‘red’],0,0,0,1,0
+red4_75,[‘red’],0,0,0,1,0
+red4_76,[‘red’],0,0,0,1,0
+red4_77,[‘red’],0,0,0,1,0
+red4_78,[‘red’],0,0,0,1,0
+red4_79,[‘red’],0,0,0,1,0
+red4_80,[‘red’],0,0,0,1,0
+red4_81,[‘red’],0,0,0,1,0
+red4_82,[‘red’],0,0,0,1,0
+red4_83,[‘red’],0,0,0,1,0
+red4_84,[‘red’],0,0,0,1,0
+red4_85,[‘red’],0,0,0,1,0
+red4_86,[‘red’],0,0,0,1,0
+red4_87,[‘red’],0,0,0,1,0
+red4_88,[‘red’],0,0,0,1,0
+red4_89,[‘red’],0,0,0,1,0
+red4_90,[‘red’],0,0,0,1,0
+red4_91,[‘red’],0,0,0,1,0
+red4_92,[‘red’],0,0,0,1,0
+red4_93,[‘red’],0,0,0,1,0
+red4_94,[‘red’],0,0,0,1,0
+red4_95,[‘red’],0,0,0,1,0
+red4_96,[‘red’],0,0,0,1,0
+red4_97,[‘red’],0,0,0,1,0
+red4_98,[‘red’],0,0,0,1,0
+red4_99,[‘red’],0,0,0,1,0
+red4_100,[‘red’],0,0,0,1,0
+red4_101,[‘red’],0,0,0,1,0
+red4_102,[‘red’],0,0,0,1,0
+red4_103,[‘red’],0,0,0,1,0
+red4_104,[‘red’],0,0,0,1,0
+red4_105,[‘red’],0,0,0,1,0
+red4_106,[‘red’],0,0,0,1,0
+red4_107,[‘red’],0,0,0,1,0
+red4_108,[‘red’],0,0,0,1,0
+red4_109,[‘red’],0,0,0,1,0
+red4_110,[‘red’],0,0,0,1,0
+red4_111,[‘red’],0,0,0,1,0
+red4_112,[‘red’],0,0,0,1,0
+red4_113,[‘red’],0,0,0,1,0
+red4_114,[‘red’],0,0,0,1,0
+red4_115,[‘red’],0,0,0,1,0
+red4_116,[‘red’],0,0,0,1,0
+red4_117,[‘red’],0,0,0,1,0
+red4_118,[‘red’],0,0,0,1,0
+red4_119,[‘red’],0,0,0,1,0
+red4_120,[‘red’],0,0,0,1,0
+red4_121,[‘red’],0,0,0,1,0
+red4_122,[‘red’],0,0,0,1,0
+red4_123,[‘red’],0,0,0,1,0
+red4_124,[‘red’],0,0,0,1,0
+red4_125,[‘red’],0,0,0,1,0
+red4_126,[‘red’],0,0,0,1,0
+red4_127,[‘red’],0,0,0,1,0
+red4_128,[‘red’],0,0,0,1,0
+red4_129,[‘red’],0,0,0,1,0
+red4_130,[‘red’],0,0,0,1,0
+red4_131,[‘red’],0,0,0,1,0
+red4_132,[‘red’],0,0,0,1,0
+red4_133,[‘red’],0,0,0,1,0
+red4_134,[‘red’],0,0,0,1,0
+red4_135,[‘red’],0,0,0,1,0
+red4_136,[‘red’],0,0,0,1,0
+red4_137,[‘red’],0,0,0,1,0
+red4_138,[‘red’],0,0,0,1,0
+red4_139,[‘red’],0,0,0,1,0
+red4_140,[‘red’],0,0,0,1,0
+red4_141,[‘red’],0,0,0,1,0
+red4_142,[‘red’],0,0,0,1,0
+red4_143,[‘red’],0,0,0,1,0
+red4_144,[‘red’],0,0,0,1,0
+red4_145,[‘red’],0,0,0,1,0
+red4_146,[‘red’],0,0,0,1,0
+red4_147,[‘red’],0,0,0,1,0
+red4_148,[‘red’],0,0,0,1,0
+red4_149,[‘red’],0,0,0,1,0
+red4_150,[‘red’],0,0,0,1,0
+red4_151,[‘red’],0,0,0,1,0
+red4_152,[‘red’],0,0,0,1,0
+red4_153,[‘red’],0,0,0,1,0
+red4_154,[‘red’],0,0,0,1,0
+red4_155,[‘red’],0,0,0,1,0
+red4_156,[‘red’],0,0,0,1,0
+red4_157,[‘red’],0,0,0,1,0
+red4_158,[‘red’],0,0,0,1,0
+red4_159,[‘red’],0,0,0,1,0
+red4_160,[‘red’],0,0,0,1,0
+red4_161,[‘red’],0,0,0,1,0
+red4_162,[‘red’],0,0,0,1,0
+red4_163,[‘red’],0,0,0,1,0
+red4_164,[‘red’],0,0,0,1,0
+red4_165,[‘red’],0,0,0,1,0
+red4_166,[‘red’],0,0,0,1,0
+red4_167,[‘red’],0,0,0,1,0
+red4_168,[‘red’],0,0,0,1,0
+red4_169,[‘red’],0,0,0,1,0
+red4_170,[‘red’],0,0,0,1,0
+red4_171,[‘red’],0,0,0,1,0
+red4_172,[‘red’],0,0,0,1,0
+red4_173,[‘red’],0,0,0,1,0
+red4_174,[‘red’],0,0,0,1,0
+red4_175,[‘red’],0,0,0,1,0
+red4_176,[‘red’],0,0,0,1,0
+red4_177,[‘red’],0,0,0,1,0
+red4_178,[‘red’],0,0,0,1,0
+red4_179,[‘red’],0,0,0,1,0
+red4_180,[‘red’],0,0,0,1,0
+red4_181,[‘red’],0,0,0,1,0
+red4_182,[‘red’],0,0,0,1,0
+red4_183,[‘red’],0,0,0,1,0
+red4_184,[‘red’],0,0,0,1,0
+red4_185,[‘red’],0,0,0,1,0
+red4_186,[‘red’],0,0,0,1,0
+red4_187,[‘red’],0,0,0,1,0
+red4_188,[‘red’],0,0,0,1,0
+red4_189,[‘red’],0,0,0,1,0
+red4_190,[‘red’],0,0,0,1,0
+red4_191,[‘red’],0,0,0,1,0
+red4_192,[‘red’],0,0,0,1,0
+red4_193,[‘red’],0,0,0,1,0
+red4_194,[‘red’],0,0,0,1,0
+red4_195,[‘red’],0,0,0,1,0
+red4_196,[‘red’],0,0,0,1,0
+red4_197,[‘red’],0,0,0,1,0
+red4_198,[‘red’],0,0,0,1,0
+red4_199,[‘red’],0,0,0,1,0
+red4_200,[‘red’],0,0,0,1,0
+red4_201,[‘red’],0,0,0,1,0
+red4_202,[‘red’],0,0,0,1,0
+red4_203,[‘red’],0,0,0,1,0
+red4_204,[‘red’],0,0,0,1,0
+red4_205,[‘red’],0,0,0,1,0
+red4_206,[‘red’],0,0,0,1,0
+red4_207,[‘red’],0,0,0,1,0
+red4_208,[‘red’],0,0,0,1,0
+red4_209,[‘red’],0,0,0,1,0
+red4_210,[‘red’],0,0,0,1,0
+red4_211,[‘red’],0,0,0,1,0
+red4_212,[‘red’],0,0,0,1,0
+red4_213,[‘red’],0,0,0,1,0
+red4_214,[‘red’],0,0,0,1,0
+red4_215,[‘red’],0,0,0,1,0
+red4_216,[‘red’],0,0,0,1,0
+red4_217,[‘red’],0,0,0,1,0
+red4_218,[‘red’],0,0,0,1,0
+red4_219,[‘red’],0,0,0,1,0
+red4_220,[‘red’],0,0,0,1,0
+red4_221,[‘red’],0,0,0,1,0
+red4_222,[‘red’],0,0,0,1,0
+red4_223,[‘red’],0,0,0,1,0
+red4_224,[‘red’],0,0,0,1,0
+red4_225,[‘red’],0,0,0,1,0
+red4_226,[‘red’],0,0,0,1,0
+red4_227,[‘red’],0,0,0,1,0
+red4_228,[‘red’],0,0,0,1,0
+red4_229,[‘red’],0,0,0,1,0
+red4_230,[‘red’],0,0,0,1,0
+red4_231,[‘red’],0,0,0,1,0
+red4_232,[‘red’],0,0,0,1,0
+red4_233,[‘red’],0,0,0,1,0
+red4_234,[‘red’],0,0,0,1,0
+red4_235,[‘red’],0,0,0,1,0
+red4_236,[‘red’],0,0,0,1,0
+red4_237,[‘red’],0,0,0,1,0
+red4_238,[‘red’],0,0,0,1,0
+red4_239,[‘red’],0,0,0,1,0
+red4_240,[‘red’],0,0,0,1,0
+red4_241,[‘red’],0,0,0,1,0
+red4_242,[‘red’],0,0,0,1,0
+red4_243,[‘red’],0,0,0,1,0
+red4_244,[‘red’],0,0,0,1,0
+red4_245,[‘red’],0,0,0,1,0
+red4_246,[‘red’],0,0,0,1,0
+red4_247,[‘red’],0,0,0,1,0
+red4_248,[‘red’],0,0,0,1,0
+red4_249,[‘red’],0,0,0,1,0
+red4_250,[‘red’],0,0,0,1,0
+red4_251,[‘red’],0,0,0,1,0
+red4_252,[‘red’],0,0,0,1,0
+red4_253,[‘red’],0,0,0,1,0
+red4_254,[‘red’],0,0,0,1,0
+red4_255,[‘red’],0,0,0,1,0
+red4_256,[‘red’],0,0,0,1,0
+red4_257,[‘red’],0,0,0,1,0
+red4_258,[‘red’],0,0,0,1,0
+red4_259,[‘red’],0,0,0,1,0
+red4_260,[‘red’],0,0,0,1,0
+red4_261,[‘red’],0,0,0,1,0
+red4_262,[‘red’],0,0,0,1,0
+red4_263,[‘red’],0,0,0,1,0
+red4_264,[‘red’],0,0,0,1,0
+red4_265,[‘red’],0,0,0,1,0
+red4_266,[‘red’],0,0,0,1,0
+red4_267,[‘red’],0,0,0,1,0
+red4_268,[‘red’],0,0,0,1,0
+red4_269,[‘red’],0,0,0,1,0
+red4_270,[‘red’],0,0,0,1,0
+red4_271,[‘red’],0,0,0,1,0
+red4_272,[‘red’],0,0,0,1,0
+red4_273,[‘red’],0,0,0,1,0
+red4_274,[‘red’],0,0,0,1,0
+red4_275,[‘red’],0,0,0,1,0
+red4_276,[‘red’],0,0,0,1,0
+red4_277,[‘red’],0,0,0,1,0
+red4_278,[‘red’],0,0,0,1,0
+red4_279,[‘red’],0,0,0,1,0
+red4_280,[‘red’],0,0,0,1,0
+red4_281,[‘red’],0,0,0,1,0
+red4_282,[‘red’],0,0,0,1,0
+red4_283,[‘red’],0,0,0,1,0
+red4_284,[‘red’],0,0,0,1,0
+red4_285,[‘red’],0,0,0,1,0
+red4_286,[‘red’],0,0,0,1,0
+red4_287,[‘red’],0,0,0,1,0
+red4_288,[‘red’],0,0,0,1,0
+red4_289,[‘red’],0,0,0,1,0
+red4_290,[‘red’],0,0,0,1,0
+red4_291,[‘red’],0,0,0,1,0
+red4_292,[‘red’],0,0,0,1,0
+red4_293,[‘red’],0,0,0,1,0
+red4_294,[‘red’],0,0,0,1,0
+red4_295,[‘red’],0,0,0,1,0
+red4_296,[‘red’],0,0,0,1,0
+red4_297,[‘red’],0,0,0,1,0
+red4_298,[‘red’],0,0,0,1,0
+red4_299,[‘red’],0,0,0,1,0
+red4_300,[‘red’],0,0,0,1,0
+red4_301,[‘red’],0,0,0,1,0
+red4_302,[‘red’],0,0,0,1,0
+red4_303,[‘red’],0,0,0,1,0
+red4_304,[‘red’],0,0,0,1,0
+red4_305,[‘red’],0,0,0,1,0
+red4_306,[‘red’],0,0,0,1,0
+red4_307,[‘red’],0,0,0,1,0
+red4_308,[‘red’],0,0,0,1,0
+red4_309,[‘red’],0,0,0,1,0
+red4_310,[‘red’],0,0,0,1,0
+red4_311,[‘red’],0,0,0,1,0
+red4_312,[‘red’],0,0,0,1,0
+red4_313,[‘red’],0,0,0,1,0
+red4_314,[‘red’],0,0,0,1,0
+red4_315,[‘red’],0,0,0,1,0
+red4_316,[‘red’],0,0,0,1,0
+red4_317,[‘red’],0,0,0,1,0
+red4_318,[‘red’],0,0,0,1,0
+red4_319,[‘red’],0,0,0,1,0
+red4_320,[‘red’],0,0,0,1,0
+red4_321,[‘red’],0,0,0,1,0
+red4_322,[‘red’],0,0,0,1,0
+red4_323,[‘red’],0,0,0,1,0
+red4_324,[‘red’],0,0,0,1,0
+red4_325,[‘red’],0,0,0,1,0
+red4_326,[‘red’],0,0,0,1,0
+red4_327,[‘red’],0,0,0,1,0
+red4_328,[‘red’],0,0,0,1,0
+red4_329,[‘red’],0,0,0,1,0
+red4_330,[‘red’],0,0,0,1,0
+red4_331,[‘red’],0,0,0,1,0
+red4_332,[‘red’],0,0,0,1,0
+red4_333,[‘red’],0,0,0,1,0
+red4_334,[‘red’],0,0,0,1,0
+red4_335,[‘red’],0,0,0,1,0
+red4_336,[‘red’],0,0,0,1,0
+red4_337,[‘red’],0,0,0,1,0
+red4_338,[‘red’],0,0,0,1,0
+red4_339,[‘red’],0,0,0,1,0
+red4_340,[‘red’],0,0,0,1,0
+red4_341,[‘red’],0,0,0,1,0
+red4_342,[‘red’],0,0,0,1,0
+red4_343,[‘red’],0,0,0,1,0
+red4_344,[‘red’],0,0,0,1,0
+red4_345,[‘red’],0,0,0,1,0
+red4_346,[‘red’],0,0,0,1,0
+red4_347,[‘red’],0,0,0,1,0
+red4_348,[‘red’],0,0,0,1,0
+red4_349,[‘red’],0,0,0,1,0
+red4_350,[‘red’],0,0,0,1,0
+red4_351,[‘red’],0,0,0,1,0
+red4_352,[‘red’],0,0,0,1,0
+red4_353,[‘red’],0,0,0,1,0
+red4_354,[‘red’],0,0,0,1,0
+red4_355,[‘red’],0,0,0,1,0
+red4_356,[‘red’],0,0,0,1,0
+red4_357,[‘red’],0,0,0,1,0
+red4_358,[‘red’],0,0,0,1,0
+red4_359,[‘red’],0,0,0,1,0
+red4_360,[‘red’],0,0,0,1,0
+red4_361,[‘red’],0,0,0,1,0
+red4_362,[‘red’],0,0,0,1,0
+red4_363,[‘red’],0,0,0,1,0
+red4_364,[‘red’],0,0,0,1,0
+red4_365,[‘red’],0,0,0,1,0
+red4_366,[‘red’],0,0,0,1,0
+red4_367,[‘red’],0,0,0,1,0
+red4_368,[‘red’],0,0,0,1,0
+red4_369,[‘red’],0,0,0,1,0
+red4_370,[‘red’],0,0,0,1,0
+red4_371,[‘red’],0,0,0,1,0
+red4_372,[‘red’],0,0,0,1,0
+red4_373,[‘red’],0,0,0,1,0
+red4_374,[‘red’],0,0,0,1,0
+red4_375,[‘red’],0,0,0,1,0
+red4_376,[‘red’],0,0,0,1,0
+red4_377,[‘red’],0,0,0,1,0
+red4_378,[‘red’],0,0,0,1,0
+red4_379,[‘red’],0,0,0,1,0
+red4_380,[‘red’],0,0,0,1,0
+red4_381,[‘red’],0,0,0,1,0
+red4_382,[‘red’],0,0,0,1,0
+red4_383,[‘red’],0,0,0,1,0
+red4_384,[‘red’],0,0,0,1,0
+red4_385,[‘red’],0,0,0,1,0
+red4_386,[‘red’],0,0,0,1,0
+red4_387,[‘red’],0,0,0,1,0
+red4_388,[‘red’],0,0,0,1,0
+red4_389,[‘red’],0,0,0,1,0
+red4_390,[‘red’],0,0,0,1,0
+red4_391,[‘red’],0,0,0,1,0
+red4_392,[‘red’],0,0,0,1,0
+red4_393,[‘red’],0,0,0,1,0
+red4_394,[‘red’],0,0,0,1,0
+red4_395,[‘red’],0,0,0,1,0
+red4_396,[‘red’],0,0,0,1,0
+red4_397,[‘red’],0,0,0,1,0
+red4_398,[‘red’],0,0,0,1,0
+red4_399,[‘red’],0,0,0,1,0
+red4_400,[‘red’],0,0,0,1,0
+red4_401,[‘red’],0,0,0,1,0
+red4_402,[‘red’],0,0,0,1,0
+red4_403,[‘red’],0,0,0,1,0
+red4_404,[‘red’],0,0,0,1,0
+red4_405,[‘red’],0,0,0,1,0
+red4_406,[‘red’],0,0,0,1,0
+red4_407,[‘red’],0,0,0,1,0
+red4_408,[‘red’],0,0,0,1,0
+red4_409,[‘red’],0,0,0,1,0
+red4_410,[‘red’],0,0,0,1,0
+red4_411,[‘red’],0,0,0,1,0
+red4_412,[‘red’],0,0,0,1,0
+red4_413,[‘red’],0,0,0,1,0
+red4_414,[‘red’],0,0,0,1,0
+red4_415,[‘red’],0,0,0,1,0
+red4_416,[‘red’],0,0,0,1,0
+red4_417,[‘red’],0,0,0,1,0
+red4_418,[‘red’],0,0,0,1,0
+red4_419,[‘red’],0,0,0,1,0
+red4_420,[‘red’],0,0,0,1,0
+red4_421,[‘red’],0,0,0,1,0
+red4_422,[‘red’],0,0,0,1,0
+red4_423,[‘red’],0,0,0,1,0
+red4_424,[‘red’],0,0,0,1,0
+red4_425,[‘red’],0,0,0,1,0
+red4_426,[‘red’],0,0,0,1,0
+red4_427,[‘red’],0,0,0,1,0
+red4_428,[‘red’],0,0,0,1,0
+red4_429,[‘red’],0,0,0,1,0
+red4_430,[‘red’],0,0,0,1,0
+red4_431,[‘red’],0,0,0,1,0
+red4_432,[‘red’],0,0,0,1,0
+red4_433,[‘red’],0,0,0,1,0
+red4_434,[‘red’],0,0,0,1,0
+red4_435,[‘red’],0,0,0,1,0
+red4_436,[‘red’],0,0,0,1,0
+red4_437,[‘red’],0,0,0,1,0
+red4_438,[‘red’],0,0,0,1,0
+red4_439,[‘red’],0,0,0,1,0
+red4_440,[‘red’],0,0,0,1,0
+red4_441,[‘red’],0,0,0,1,0
+red4_442,[‘red’],0,0,0,1,0
+red4_443,[‘red’],0,0,0,1,0
+red4_444,[‘red’],0,0,0,1,0
+red4_445,[‘red’],0,0,0,1,0
+red4_446,[‘red’],0,0,0,1,0
+red4_447,[‘red’],0,0,0,1,0
+red4_448,[‘red’],0,0,0,1,0
+red4_449,[‘red’],0,0,0,1,0
+red4_450,[‘red’],0,0,0,1,0
+red4_451,[‘red’],0,0,0,1,0
+red4_452,[‘red’],0,0,0,1,0
+red4_453,[‘red’],0,0,0,1,0
+red4_454,[‘red’],0,0,0,1,0
+red4_455,[‘red’],0,0,0,1,0
+red4_456,[‘red’],0,0,0,1,0
+red4_457,[‘red’],0,0,0,1,0
+red4_458,[‘red’],0,0,0,1,0
+red4_459,[‘red’],0,0,0,1,0
+red4_460,[‘red’],0,0,0,1,0
+red4_461,[‘red’],0,0,0,1,0
+red4_462,[‘red’],0,0,0,1,0
+red4_463,[‘red’],0,0,0,1,0
+red4_464,[‘red’],0,0,0,1,0
+red4_465,[‘red’],0,0,0,1,0
+red4_466,[‘red’],0,0,0,1,0
+red4_467,[‘red’],0,0,0,1,0
+red4_468,[‘red’],0,0,0,1,0
+red4_469,[‘red’],0,0,0,1,0
+red4_470,[‘red’],0,0,0,1,0
+red4_471,[‘red’],0,0,0,1,0
+red4_472,[‘red’],0,0,0,1,0
+red4_473,[‘red’],0,0,0,1,0
+red4_474,[‘red’],0,0,0,1,0
+red4_475,[‘red’],0,0,0,1,0
+red4_476,[‘red’],0,0,0,1,0
+red4_477,[‘red’],0,0,0,1,0
+red4_478,[‘red’],0,0,0,1,0
+red4_479,[‘red’],0,0,0,1,0
+red4_480,[‘red’],0,0,0,1,0
+red4_481,[‘red’],0,0,0,1,0
+red4_482,[‘red’],0,0,0,1,0
+red4_483,[‘red’],0,0,0,1,0
+red4_484,[‘red’],0,0,0,1,0
+red4_485,[‘red’],0,0,0,1,0
+red4_486,[‘red’],0,0,0,1,0
+red4_487,[‘red’],0,0,0,1,0
+red4_488,[‘red’],0,0,0,1,0
+red4_489,[‘red’],0,0,0,1,0
+red4_490,[‘red’],0,0,0,1,0
+red4_491,[‘red’],0,0,0,1,0
+red4_492,[‘red’],0,0,0,1,0
+red4_493,[‘red’],0,0,0,1,0
+red4_494,[‘red’],0,0,0,1,0
+red4_495,[‘red’],0,0,0,1,0
+red4_496,[‘red’],0,0,0,1,0
+red4_497,[‘red’],0,0,0,1,0
+red4_498,[‘red’],0,0,0,1,0
+red4_499,[‘red’],0,0,0,1,0
+red4_500,[‘red’],0,0,0,1,0
+redgreen_1,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_2,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_3,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_4,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_5,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_6,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_7,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_8,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_9,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_10,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_11,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_12,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_13,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_14,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_15,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_16,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_17,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_18,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_19,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_20,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_21,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_22,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_23,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_24,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_25,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_26,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_27,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_28,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_29,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_30,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_31,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_32,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_33,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_34,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_35,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_36,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_37,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_38,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_39,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_40,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_41,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_42,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_43,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_44,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_45,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_46,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_47,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_48,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_49,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_50,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_51,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_52,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_53,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_54,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_55,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_56,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_57,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_58,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_59,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_60,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_61,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_62,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_63,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_64,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_65,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_66,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_67,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_68,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_69,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_70,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_71,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_72,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_73,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_74,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_75,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_76,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_77,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_78,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_79,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_80,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_81,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_82,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_83,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_84,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_85,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_86,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_87,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_88,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_89,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_90,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_91,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_92,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_93,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_94,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_95,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_96,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_97,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_98,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_99,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_100,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_101,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_102,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_103,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_104,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_105,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_106,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_107,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_108,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_109,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_110,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_111,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_112,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_113,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_114,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_115,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_116,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_117,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_118,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_119,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_120,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_121,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_122,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_123,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_124,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_125,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_126,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_127,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_128,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_129,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_130,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_131,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_132,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_133,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_134,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_135,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_136,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_137,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_138,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_139,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_140,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_141,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_142,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_143,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_144,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_145,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_146,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_147,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_148,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_149,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_150,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_151,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_152,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_153,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_154,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_155,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_156,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_157,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_158,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_159,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_160,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_161,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_162,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_163,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_164,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_165,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_166,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_167,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_168,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_169,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_170,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_171,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_172,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_173,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_174,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_175,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_176,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_177,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_178,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_179,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_180,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_181,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_182,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_183,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_184,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_185,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_186,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_187,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_188,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_189,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_190,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_191,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_192,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_193,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_194,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_195,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_196,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_197,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_198,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_199,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_200,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_201,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_202,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_203,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_204,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_205,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_206,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_207,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_208,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_209,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_210,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_211,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_212,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_213,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_214,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_215,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_216,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_217,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_218,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_219,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_220,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_221,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_222,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_223,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_224,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_225,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_226,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_227,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_228,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_229,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_230,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_231,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_232,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_233,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_234,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_235,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_236,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_237,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_238,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_239,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_240,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_241,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_242,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_243,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_244,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_245,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_246,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_247,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_248,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_249,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_250,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_251,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_252,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_253,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_254,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_255,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_256,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_257,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_258,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_259,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_260,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_261,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_262,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_263,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_264,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_265,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_266,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_267,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_268,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_269,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_270,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_271,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_272,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_273,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_274,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_275,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_276,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_277,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_278,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_279,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_280,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_281,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_282,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_283,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_284,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_285,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_286,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_287,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_288,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_289,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_290,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_291,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_292,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_293,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_294,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_295,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_296,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_297,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_298,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_299,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_300,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_301,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_302,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_303,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_304,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_305,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_306,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_307,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_308,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_309,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_310,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_311,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_312,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_313,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_314,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_315,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_316,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_317,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_318,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_319,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_320,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_321,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_322,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_323,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_324,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_325,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_326,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_327,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_328,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_329,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_330,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_331,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_332,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_333,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_334,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_335,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_336,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_337,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_338,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_339,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_340,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_341,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_342,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_343,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_344,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_345,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_346,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_347,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_348,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_349,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_350,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_351,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_352,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_353,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_354,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_355,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_356,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_357,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_358,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_359,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_360,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_361,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_362,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_363,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_364,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_365,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_366,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_367,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_368,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_369,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_370,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_371,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_372,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_373,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_374,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_375,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_376,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_377,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_378,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_379,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_380,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_381,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_382,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_383,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_384,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_385,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_386,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_387,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_388,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_389,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_390,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_391,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_392,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_393,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_394,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_395,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_396,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_397,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_398,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_399,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_400,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_401,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_402,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_403,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_404,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_405,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_406,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_407,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_408,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_409,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_410,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_411,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_412,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_413,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_414,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_415,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_416,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_417,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_418,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_419,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_420,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_421,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_422,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_423,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_424,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_425,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_426,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_427,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_428,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_429,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_430,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_431,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_432,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_433,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_434,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_435,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_436,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_437,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_438,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_439,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_440,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_441,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_442,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_443,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_444,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_445,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_446,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_447,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_448,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_449,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_450,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_451,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_452,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_453,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_454,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_455,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_456,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_457,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_458,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_459,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_460,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_461,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_462,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_463,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_464,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_465,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_466,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_467,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_468,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_469,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_470,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_471,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_472,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_473,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_474,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_475,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_476,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_477,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_478,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_479,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_480,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_481,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_482,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_483,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_484,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_485,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_486,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_487,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_488,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_489,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_490,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_491,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_492,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_493,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_494,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_495,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_496,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_497,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_498,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_499,"[‘red’, ‘arrow’]",0,0,1,1,0
+redgreen_500,"[‘red’, ‘arrow’]",0,0,1,1,0
+yellow3_1,[‘yellow’],0,0,0,0,1
+yellow3_2,[‘yellow’],0,0,0,0,1
+yellow3_3,[‘yellow’],0,0,0,0,1
+yellow3_4,[‘yellow’],0,0,0,0,1
+yellow3_5,[‘yellow’],0,0,0,0,1
+yellow3_6,[‘yellow’],0,0,0,0,1
+yellow3_7,[‘yellow’],0,0,0,0,1
+yellow3_8,[‘yellow’],0,0,0,0,1
+yellow3_9,[‘yellow’],0,0,0,0,1
+yellow3_10,[‘yellow’],0,0,0,0,1
+yellow3_11,[‘yellow’],0,0,0,0,1
+yellow3_12,[‘yellow’],0,0,0,0,1
+yellow3_13,[‘yellow’],0,0,0,0,1
+yellow3_14,[‘yellow’],0,0,0,0,1
+yellow3_15,[‘yellow’],0,0,0,0,1
+yellow3_16,[‘yellow’],0,0,0,0,1
+yellow3_17,[‘yellow’],0,0,0,0,1
+yellow3_18,[‘yellow’],0,0,0,0,1
+yellow3_19,[‘yellow’],0,0,0,0,1
+yellow3_20,[‘yellow’],0,0,0,0,1
+yellow3_21,[‘yellow’],0,0,0,0,1
+yellow3_22,[‘yellow’],0,0,0,0,1
+yellow3_23,[‘yellow’],0,0,0,0,1
+yellow3_24,[‘yellow’],0,0,0,0,1
+yellow3_25,[‘yellow’],0,0,0,0,1
+yellow3_26,[‘yellow’],0,0,0,0,1
+yellow3_27,[‘yellow’],0,0,0,0,1
+yellow3_28,[‘yellow’],0,0,0,0,1
+yellow3_29,[‘yellow’],0,0,0,0,1
+yellow3_30,[‘yellow’],0,0,0,0,1
+yellow3_31,[‘yellow’],0,0,0,0,1
+yellow3_32,[‘yellow’],0,0,0,0,1
+yellow3_33,[‘yellow’],0,0,0,0,1
+yellow3_34,[‘yellow’],0,0,0,0,1
+yellow3_35,[‘yellow’],0,0,0,0,1
+yellow3_36,[‘yellow’],0,0,0,0,1
+yellow3_37,[‘yellow’],0,0,0,0,1
+yellow3_38,[‘yellow’],0,0,0,0,1
+yellow3_39,[‘yellow’],0,0,0,0,1
+yellow3_40,[‘yellow’],0,0,0,0,1
+yellow3_41,[‘yellow’],0,0,0,0,1
+yellow3_42,[‘yellow’],0,0,0,0,1
+yellow3_43,[‘yellow’],0,0,0,0,1
+yellow3_44,[‘yellow’],0,0,0,0,1
+yellow3_45,[‘yellow’],0,0,0,0,1
+yellow3_46,[‘yellow’],0,0,0,0,1
+yellow3_47,[‘yellow’],0,0,0,0,1
+yellow3_48,[‘yellow’],0,0,0,0,1
+yellow3_49,[‘yellow’],0,0,0,0,1
+yellow3_50,[‘yellow’],0,0,0,0,1
+yellow3_51,[‘yellow’],0,0,0,0,1
+yellow3_52,[‘yellow’],0,0,0,0,1
+yellow3_53,[‘yellow’],0,0,0,0,1
+yellow3_54,[‘yellow’],0,0,0,0,1
+yellow3_55,[‘yellow’],0,0,0,0,1
+yellow3_56,[‘yellow’],0,0,0,0,1
+yellow3_57,[‘yellow’],0,0,0,0,1
+yellow3_58,[‘yellow’],0,0,0,0,1
+yellow3_59,[‘yellow’],0,0,0,0,1
+yellow3_60,[‘yellow’],0,0,0,0,1
+yellow3_61,[‘yellow’],0,0,0,0,1
+yellow3_62,[‘yellow’],0,0,0,0,1
+yellow3_63,[‘yellow’],0,0,0,0,1
+yellow3_64,[‘yellow’],0,0,0,0,1
+yellow3_65,[‘yellow’],0,0,0,0,1
+yellow3_66,[‘yellow’],0,0,0,0,1
+yellow3_67,[‘yellow’],0,0,0,0,1
+yellow3_68,[‘yellow’],0,0,0,0,1
+yellow3_69,[‘yellow’],0,0,0,0,1
+yellow3_70,[‘yellow’],0,0,0,0,1
+yellow3_71,[‘yellow’],0,0,0,0,1
+yellow3_72,[‘yellow’],0,0,0,0,1
+yellow3_73,[‘yellow’],0,0,0,0,1
+yellow3_74,[‘yellow’],0,0,0,0,1
+yellow3_75,[‘yellow’],0,0,0,0,1
+yellow3_76,[‘yellow’],0,0,0,0,1
+yellow3_77,[‘yellow’],0,0,0,0,1
+yellow3_78,[‘yellow’],0,0,0,0,1
+yellow3_79,[‘yellow’],0,0,0,0,1
+yellow3_80,[‘yellow’],0,0,0,0,1
+yellow3_81,[‘yellow’],0,0,0,0,1
+yellow3_82,[‘yellow’],0,0,0,0,1
+yellow3_83,[‘yellow’],0,0,0,0,1
+yellow3_84,[‘yellow’],0,0,0,0,1
+yellow3_85,[‘yellow’],0,0,0,0,1
+yellow3_86,[‘yellow’],0,0,0,0,1
+yellow3_87,[‘yellow’],0,0,0,0,1
+yellow3_88,[‘yellow’],0,0,0,0,1
+yellow3_89,[‘yellow’],0,0,0,0,1
+yellow3_90,[‘yellow’],0,0,0,0,1
+yellow3_91,[‘yellow’],0,0,0,0,1
+yellow3_92,[‘yellow’],0,0,0,0,1
+yellow3_93,[‘yellow’],0,0,0,0,1
+yellow3_94,[‘yellow’],0,0,0,0,1
+yellow3_95,[‘yellow’],0,0,0,0,1
+yellow3_96,[‘yellow’],0,0,0,0,1
+yellow3_97,[‘yellow’],0,0,0,0,1
+yellow3_98,[‘yellow’],0,0,0,0,1
+yellow3_99,[‘yellow’],0,0,0,0,1
+yellow3_100,[‘yellow’],0,0,0,0,1
+yellow3_101,[‘yellow’],0,0,0,0,1
+yellow3_102,[‘yellow’],0,0,0,0,1
+yellow3_103,[‘yellow’],0,0,0,0,1
+yellow3_104,[‘yellow’],0,0,0,0,1
+yellow3_105,[‘yellow’],0,0,0,0,1
+yellow3_106,[‘yellow’],0,0,0,0,1
+yellow3_107,[‘yellow’],0,0,0,0,1
+yellow3_108,[‘yellow’],0,0,0,0,1
+yellow3_109,[‘yellow’],0,0,0,0,1
+yellow3_110,[‘yellow’],0,0,0,0,1
+yellow3_111,[‘yellow’],0,0,0,0,1
+yellow3_112,[‘yellow’],0,0,0,0,1
+yellow3_113,[‘yellow’],0,0,0,0,1
+yellow3_114,[‘yellow’],0,0,0,0,1
+yellow3_115,[‘yellow’],0,0,0,0,1
+yellow3_116,[‘yellow’],0,0,0,0,1
+yellow3_117,[‘yellow’],0,0,0,0,1
+yellow3_118,[‘yellow’],0,0,0,0,1
+yellow3_119,[‘yellow’],0,0,0,0,1
+yellow3_120,[‘yellow’],0,0,0,0,1
+yellow3_121,[‘yellow’],0,0,0,0,1
+yellow3_122,[‘yellow’],0,0,0,0,1
+yellow3_123,[‘yellow’],0,0,0,0,1
+yellow3_124,[‘yellow’],0,0,0,0,1
+yellow3_125,[‘yellow’],0,0,0,0,1
+yellow3_126,[‘yellow’],0,0,0,0,1
+yellow3_127,[‘yellow’],0,0,0,0,1
+yellow3_128,[‘yellow’],0,0,0,0,1
+yellow3_129,[‘yellow’],0,0,0,0,1
+yellow3_130,[‘yellow’],0,0,0,0,1
+yellow3_131,[‘yellow’],0,0,0,0,1
+yellow3_132,[‘yellow’],0,0,0,0,1
+yellow3_133,[‘yellow’],0,0,0,0,1
+yellow3_134,[‘yellow’],0,0,0,0,1
+yellow3_135,[‘yellow’],0,0,0,0,1
+yellow3_136,[‘yellow’],0,0,0,0,1
+yellow3_137,[‘yellow’],0,0,0,0,1
+yellow3_138,[‘yellow’],0,0,0,0,1
+yellow3_139,[‘yellow’],0,0,0,0,1
+yellow3_140,[‘yellow’],0,0,0,0,1
+yellow3_141,[‘yellow’],0,0,0,0,1
+yellow3_142,[‘yellow’],0,0,0,0,1
+yellow3_143,[‘yellow’],0,0,0,0,1
+yellow3_144,[‘yellow’],0,0,0,0,1
+yellow3_145,[‘yellow’],0,0,0,0,1
+yellow3_146,[‘yellow’],0,0,0,0,1
+yellow3_147,[‘yellow’],0,0,0,0,1
+yellow3_148,[‘yellow’],0,0,0,0,1
+yellow3_149,[‘yellow’],0,0,0,0,1
+yellow3_150,[‘yellow’],0,0,0,0,1
+yellow3_151,[‘yellow’],0,0,0,0,1
+yellow3_152,[‘yellow’],0,0,0,0,1
+yellow3_153,[‘yellow’],0,0,0,0,1
+yellow3_154,[‘yellow’],0,0,0,0,1
+yellow3_155,[‘yellow’],0,0,0,0,1
+yellow3_156,[‘yellow’],0,0,0,0,1
+yellow3_157,[‘yellow’],0,0,0,0,1
+yellow3_158,[‘yellow’],0,0,0,0,1
+yellow3_159,[‘yellow’],0,0,0,0,1
+yellow3_160,[‘yellow’],0,0,0,0,1
+yellow3_161,[‘yellow’],0,0,0,0,1
+yellow3_162,[‘yellow’],0,0,0,0,1
+yellow3_163,[‘yellow’],0,0,0,0,1
+yellow3_164,[‘yellow’],0,0,0,0,1
+yellow3_165,[‘yellow’],0,0,0,0,1
+yellow3_166,[‘yellow’],0,0,0,0,1
+yellow3_167,[‘yellow’],0,0,0,0,1
+yellow3_168,[‘yellow’],0,0,0,0,1
+yellow3_169,[‘yellow’],0,0,0,0,1
+yellow3_170,[‘yellow’],0,0,0,0,1
+yellow3_171,[‘yellow’],0,0,0,0,1
+yellow3_172,[‘yellow’],0,0,0,0,1
+yellow3_173,[‘yellow’],0,0,0,0,1
+yellow3_174,[‘yellow’],0,0,0,0,1
+yellow3_175,[‘yellow’],0,0,0,0,1
+yellow3_176,[‘yellow’],0,0,0,0,1
+yellow3_177,[‘yellow’],0,0,0,0,1
+yellow3_178,[‘yellow’],0,0,0,0,1
+yellow3_179,[‘yellow’],0,0,0,0,1
+yellow3_180,[‘yellow’],0,0,0,0,1
+yellow3_181,[‘yellow’],0,0,0,0,1
+yellow3_182,[‘yellow’],0,0,0,0,1
+yellow3_183,[‘yellow’],0,0,0,0,1
+yellow3_184,[‘yellow’],0,0,0,0,1
+yellow3_185,[‘yellow’],0,0,0,0,1
+yellow3_186,[‘yellow’],0,0,0,0,1
+yellow3_187,[‘yellow’],0,0,0,0,1
+yellow3_188,[‘yellow’],0,0,0,0,1
+yellow3_189,[‘yellow’],0,0,0,0,1
+yellow3_190,[‘yellow’],0,0,0,0,1
+yellow3_191,[‘yellow’],0,0,0,0,1
+yellow3_192,[‘yellow’],0,0,0,0,1
+yellow3_193,[‘yellow’],0,0,0,0,1
+yellow3_194,[‘yellow’],0,0,0,0,1
+yellow3_195,[‘yellow’],0,0,0,0,1
+yellow3_196,[‘yellow’],0,0,0,0,1
+yellow3_197,[‘yellow’],0,0,0,0,1
+yellow3_198,[‘yellow’],0,0,0,0,1
+yellow3_199,[‘yellow’],0,0,0,0,1
+yellow3_200,[‘yellow’],0,0,0,0,1
+yellow3_201,[‘yellow’],0,0,0,0,1
+yellow3_202,[‘yellow’],0,0,0,0,1
+yellow3_203,[‘yellow’],0,0,0,0,1
+yellow3_204,[‘yellow’],0,0,0,0,1
+yellow3_205,[‘yellow’],0,0,0,0,1
+yellow3_206,[‘yellow’],0,0,0,0,1
+yellow3_207,[‘yellow’],0,0,0,0,1
+yellow3_208,[‘yellow’],0,0,0,0,1
+yellow3_209,[‘yellow’],0,0,0,0,1
+yellow3_210,[‘yellow’],0,0,0,0,1
+yellow3_211,[‘yellow’],0,0,0,0,1
+yellow3_212,[‘yellow’],0,0,0,0,1
+yellow3_213,[‘yellow’],0,0,0,0,1
+yellow3_214,[‘yellow’],0,0,0,0,1
+yellow3_215,[‘yellow’],0,0,0,0,1
+yellow3_216,[‘yellow’],0,0,0,0,1
+yellow3_217,[‘yellow’],0,0,0,0,1
+yellow3_218,[‘yellow’],0,0,0,0,1
+yellow3_219,[‘yellow’],0,0,0,0,1
+yellow3_220,[‘yellow’],0,0,0,0,1
+yellow3_221,[‘yellow’],0,0,0,0,1
+yellow3_222,[‘yellow’],0,0,0,0,1
+yellow4_1,[‘yellow’],0,0,0,0,1
+yellow4_2,[‘yellow’],0,0,0,0,1
+yellow4_3,[‘yellow’],0,0,0,0,1
+yellow4_4,[‘yellow’],0,0,0,0,1
+yellow4_5,[‘yellow’],0,0,0,0,1
+yellow4_6,[‘yellow’],0,0,0,0,1
+yellow4_7,[‘yellow’],0,0,0,0,1
+yellow4_8,[‘yellow’],0,0,0,0,1
+yellow4_9,[‘yellow’],0,0,0,0,1
+yellow4_10,[‘yellow’],0,0,0,0,1
+yellow4_11,[‘yellow’],0,0,0,0,1
+yellow4_12,[‘yellow’],0,0,0,0,1
+yellow4_13,[‘yellow’],0,0,0,0,1
+yellow4_14,[‘yellow’],0,0,0,0,1
+yellow4_15,[‘yellow’],0,0,0,0,1
+yellow4_16,[‘yellow’],0,0,0,0,1
+yellow4_17,[‘yellow’],0,0,0,0,1
+yellow4_18,[‘yellow’],0,0,0,0,1
+yellow4_19,[‘yellow’],0,0,0,0,1
+yellow4_20,[‘yellow’],0,0,0,0,1
+yellow4_21,[‘yellow’],0,0,0,0,1
+yellow4_22,[‘yellow’],0,0,0,0,1
+yellow4_23,[‘yellow’],0,0,0,0,1
+yellow4_24,[‘yellow’],0,0,0,0,1
+yellow4_25,[‘yellow’],0,0,0,0,1
+yellow4_26,[‘yellow’],0,0,0,0,1
+yellow4_27,[‘yellow’],0,0,0,0,1
+yellow4_28,[‘yellow’],0,0,0,0,1
+yellow4_29,[‘yellow’],0,0,0,0,1
+yellow4_30,[‘yellow’],0,0,0,0,1
+yellow4_31,[‘yellow’],0,0,0,0,1
+yellow4_32,[‘yellow’],0,0,0,0,1
+yellow4_33,[‘yellow’],0,0,0,0,1
+yellow4_34,[‘yellow’],0,0,0,0,1
+yellow4_35,[‘yellow’],0,0,0,0,1
+yellow4_36,[‘yellow’],0,0,0,0,1
+yellow4_37,[‘yellow’],0,0,0,0,1
+yellow4_38,[‘yellow’],0,0,0,0,1
+yellow4_39,[‘yellow’],0,0,0,0,1
+yellow4_40,[‘yellow’],0,0,0,0,1
+yellow4_41,[‘yellow’],0,0,0,0,1
+yellow4_42,[‘yellow’],0,0,0,0,1
+yellow4_43,[‘yellow’],0,0,0,0,1
+yellow4_44,[‘yellow’],0,0,0,0,1
+yellow4_45,[‘yellow’],0,0,0,0,1
+yellow4_46,[‘yellow’],0,0,0,0,1
+yellow4_47,[‘yellow’],0,0,0,0,1
+yellow4_48,[‘yellow’],0,0,0,0,1
+yellow4_49,[‘yellow’],0,0,0,0,1
+yellow4_50,[‘yellow’],0,0,0,0,1
+yellow4_51,[‘yellow’],0,0,0,0,1
+yellow4_52,[‘yellow’],0,0,0,0,1
+yellow4_53,[‘yellow’],0,0,0,0,1
+yellow4_54,[‘yellow’],0,0,0,0,1
+yellow4_55,[‘yellow’],0,0,0,0,1
+yellow4_56,[‘yellow’],0,0,0,0,1
+yellow4_57,[‘yellow’],0,0,0,0,1
+yellow4_58,[‘yellow’],0,0,0,0,1
+yellow4_59,[‘yellow’],0,0,0,0,1
+yellow4_60,[‘yellow’],0,0,0,0,1
+yellow4_61,[‘yellow’],0,0,0,0,1
+yellow4_62,[‘yellow’],0,0,0,0,1
+yellow4_63,[‘yellow’],0,0,0,0,1
+yellow4_64,[‘yellow’],0,0,0,0,1
+yellow4_65,[‘yellow’],0,0,0,0,1
+yellow4_66,[‘yellow’],0,0,0,0,1
+yellow4_67,[‘yellow’],0,0,0,0,1
+yellow4_68,[‘yellow’],0,0,0,0,1
+yellow4_69,[‘yellow’],0,0,0,0,1
+yellow4_70,[‘yellow’],0,0,0,0,1
+yellow4_71,[‘yellow’],0,0,0,0,1
+yellow4_72,[‘yellow’],0,0,0,0,1
+yellow4_73,[‘yellow’],0,0,0,0,1
+yellow4_74,[‘yellow’],0,0,0,0,1
+yellow4_75,[‘yellow’],0,0,0,0,1
+yellow4_76,[‘yellow’],0,0,0,0,1
+yellow4_77,[‘yellow’],0,0,0,0,1
+yellow4_78,[‘yellow’],0,0,0,0,1
+yellow4_79,[‘yellow’],0,0,0,0,1
+yellow4_80,[‘yellow’],0,0,0,0,1
+yellow4_81,[‘yellow’],0,0,0,0,1
+yellow4_82,[‘yellow’],0,0,0,0,1
+yellow4_83,[‘yellow’],0,0,0,0,1
+yellow4_84,[‘yellow’],0,0,0,0,1
+yellow4_85,[‘yellow’],0,0,0,0,1
+yellow4_86,[‘yellow’],0,0,0,0,1
+yellow4_87,[‘yellow’],0,0,0,0,1
+yellow4_88,[‘yellow’],0,0,0,0,1
+yellow4_89,[‘yellow’],0,0,0,0,1
+yellow4_90,[‘yellow’],0,0,0,0,1
+yellow4_91,[‘yellow’],0,0,0,0,1
+yellow4_92,[‘yellow’],0,0,0,0,1
+yellow4_93,[‘yellow’],0,0,0,0,1
+yellow4_94,[‘yellow’],0,0,0,0,1
+yellow4_95,[‘yellow’],0,0,0,0,1
+yellow4_96,[‘yellow’],0,0,0,0,1
+yellow4_97,[‘yellow’],0,0,0,0,1
+yellow4_98,[‘yellow’],0,0,0,0,1
+yellow4_99,[‘yellow’],0,0,0,0,1
+yellow4_100,[‘yellow’],0,0,0,0,1
+yellow4_101,[‘yellow’],0,0,0,0,1
+yellow4_102,[‘yellow’],0,0,0,0,1
+yellow4_103,[‘yellow’],0,0,0,0,1
+yellow4_104,[‘yellow’],0,0,0,0,1
+yellow4_105,[‘yellow’],0,0,0,0,1
+yellow4_106,[‘yellow’],0,0,0,0,1
+yellow4_107,[‘yellow’],0,0,0,0,1
+yellow4_108,[‘yellow’],0,0,0,0,1
+yellow4_109,[‘yellow’],0,0,0,0,1
+yellow4_110,[‘yellow’],0,0,0,0,1
+yellow4_111,[‘yellow’],0,0,0,0,1
+yellow4_112,[‘yellow’],0,0,0,0,1
+yellow4_113,[‘yellow’],0,0,0,0,1
+yellow4_114,[‘yellow’],0,0,0,0,1
+yellow4_115,[‘yellow’],0,0,0,0,1
+yellow4_116,[‘yellow’],0,0,0,0,1
+yellow4_117,[‘yellow’],0,0,0,0,1
+yellow4_118,[‘yellow’],0,0,0,0,1
+yellow4_119,[‘yellow’],0,0,0,0,1
+yellow4_120,[‘yellow’],0,0,0,0,1
+yellow4_121,[‘yellow’],0,0,0,0,1
+yellow4_122,[‘yellow’],0,0,0,0,1
+yellow4_123,[‘yellow’],0,0,0,0,1
+yellow4_124,[‘yellow’],0,0,0,0,1
+yellow4_125,[‘yellow’],0,0,0,0,1
+yellow4_126,[‘yellow’],0,0,0,0,1
+yellow4_127,[‘yellow’],0,0,0,0,1
+yellow4_128,[‘yellow’],0,0,0,0,1
+yellow4_129,[‘yellow’],0,0,0,0,1
+yellow4_130,[‘yellow’],0,0,0,0,1
+yellow4_131,[‘yellow’],0,0,0,0,1
+yellow4_132,[‘yellow’],0,0,0,0,1
+yellow4_133,[‘yellow’],0,0,0,0,1
+yellow4_134,[‘yellow’],0,0,0,0,1
+yellow4_135,[‘yellow’],0,0,0,0,1
+yellow4_136,[‘yellow’],0,0,0,0,1
+yellow4_137,[‘yellow’],0,0,0,0,1
+yellow4_138,[‘yellow’],0,0,0,0,1
+yellow4_139,[‘yellow’],0,0,0,0,1
+yellow4_140,[‘yellow’],0,0,0,0,1
+yellow4_141,[‘yellow’],0,0,0,0,1
+yellow4_142,[‘yellow’],0,0,0,0,1
+yellow4_143,[‘yellow’],0,0,0,0,1
+yellow4_144,[‘yellow’],0,0,0,0,1
+yellow4_145,[‘yellow’],0,0,0,0,1
+yellow4_146,[‘yellow’],0,0,0,0,1
+yellow4_147,[‘yellow’],0,0,0,0,1
+yellow4_148,[‘yellow’],0,0,0,0,1
+yellow4_149,[‘yellow’],0,0,0,0,1
+yellow4_150,[‘yellow’],0,0,0,0,1
+yellow4_151,[‘yellow’],0,0,0,0,1
+yellow4_152,[‘yellow’],0,0,0,0,1
+yellow4_153,[‘yellow’],0,0,0,0,1
+yellow4_154,[‘yellow’],0,0,0,0,1
+yellow4_155,[‘yellow’],0,0,0,0,1
+yellow4_156,[‘yellow’],0,0,0,0,1
+yellow4_157,[‘yellow’],0,0,0,0,1
+yellow4_158,[‘yellow’],0,0,0,0,1
+yellow4_159,[‘yellow’],0,0,0,0,1
+yellow4_160,[‘yellow’],0,0,0,0,1
+yellow4_161,[‘yellow’],0,0,0,0,1
+yellow4_162,[‘yellow’],0,0,0,0,1
+yellow4_163,[‘yellow’],0,0,0,0,1
+yellow4_164,[‘yellow’],0,0,0,0,1
+yellow4_165,[‘yellow’],0,0,0,0,1
+yellow4_166,[‘yellow’],0,0,0,0,1
+yellow4_167,[‘yellow’],0,0,0,0,1
+yellow4_168,[‘yellow’],0,0,0,0,1
+yellow4_169,[‘yellow’],0,0,0,0,1
+yellow4_170,[‘yellow’],0,0,0,0,1
+yellow4_171,[‘yellow’],0,0,0,0,1
+yellow4_172,[‘yellow’],0,0,0,0,1
+yellow4_173,[‘yellow’],0,0,0,0,1
+yellow4_174,[‘yellow’],0,0,0,0,1
+yellow4_175,[‘yellow’],0,0,0,0,1
+yellow4_176,[‘yellow’],0,0,0,0,1
+yellow4_177,[‘yellow’],0,0,0,0,1
+yellow4_178,[‘yellow’],0,0,0,0,1
+yellow4_179,[‘yellow’],0,0,0,0,1
+yellow4_180,[‘yellow’],0,0,0,0,1
+yellow4_181,[‘yellow’],0,0,0,0,1
+yellow4_182,[‘yellow’],0,0,0,0,1
+yellow4_183,[‘yellow’],0,0,0,0,1
+yellow4_184,[‘yellow’],0,0,0,0,1
+yellow4_185,[‘yellow’],0,0,0,0,1
+yellow4_186,[‘yellow’],0,0,0,0,1
+yellow4_187,[‘yellow’],0,0,0,0,1
+yellow4_188,[‘yellow’],0,0,0,0,1
+yellow4_189,[‘yellow’],0,0,0,0,1
+yellow4_190,[‘yellow’],0,0,0,0,1
+yellow4_191,[‘yellow’],0,0,0,0,1
+yellow4_192,[‘yellow’],0,0,0,0,1
+yellow4_193,[‘yellow’],0,0,0,0,1
+yellow4_194,[‘yellow’],0,0,0,0,1
+yellow4_195,[‘yellow’],0,0,0,0,1
+yellow4_196,[‘yellow’],0,0,0,0,1
+yellow4_197,[‘yellow’],0,0,0,0,1
+yellow4_198,[‘yellow’],0,0,0,0,1
+yellow4_199,[‘yellow’],0,0,0,0,1
+yellow4_200,[‘yellow’],0,0,0,0,1
+yellow4_201,[‘yellow’],0,0,0,0,1
+yellow4_202,[‘yellow’],0,0,0,0,1
+yellow4_203,[‘yellow’],0,0,0,0,1
+yellow4_204,[‘yellow’],0,0,0,0,1
+yellow4_205,[‘yellow’],0,0,0,0,1
+yellow4_206,[‘yellow’],0,0,0,0,1
+yellow4_207,[‘yellow’],0,0,0,0,1
+yellow4_208,[‘yellow’],0,0,0,0,1
+yellow4_209,[‘yellow’],0,0,0,0,1
+yellow4_210,[‘yellow’],0,0,0,0,1
+yellow4_211,[‘yellow’],0,0,0,0,1
+yellow4_212,[‘yellow’],0,0,0,0,1
+yellow4_213,[‘yellow’],0,0,0,0,1
+yellow4_214,[‘yellow’],0,0,0,0,1
+yellow4_215,[‘yellow’],0,0,0,0,1
+yellow4_216,[‘yellow’],0,0,0,0,1
+yellow4_217,[‘yellow’],0,0,0,0,1
+yellow4_218,[‘yellow’],0,0,0,0,1
+yellow4_219,[‘yellow’],0,0,0,0,1
+yellow4_220,[‘yellow’],0,0,0,0,1
+yellow4_221,[‘yellow’],0,0,0,0,1
+yellow4_222,[‘yellow’],0,0,0,0,1
+yellow4_223,[‘yellow’],0,0,0,0,1
+yellow4_224,[‘yellow’],0,0,0,0,1
+yellow4_225,[‘yellow’],0,0,0,0,1
+yellow4_226,[‘yellow’],0,0,0,0,1
+yellow4_227,[‘yellow’],0,0,0,0,1
+yellow4_228,[‘yellow’],0,0,0,0,1
+yellow4_229,[‘yellow’],0,0,0,0,1
+yellow4_230,[‘yellow’],0,0,0,0,1
+yellow4_231,[‘yellow’],0,0,0,0,1
+yellow4_232,[‘yellow’],0,0,0,0,1
+yellow4_233,[‘yellow’],0,0,0,0,1
+yellow4_234,[‘yellow’],0,0,0,0,1
+yellow4_235,[‘yellow’],0,0,0,0,1
+yellow4_236,[‘yellow’],0,0,0,0,1
+yellow4_237,[‘yellow’],0,0,0,0,1
+yellow4_238,[‘yellow’],0,0,0,0,1
+yellow4_239,[‘yellow’],0,0,0,0,1
+yellow4_240,[‘yellow’],0,0,0,0,1
+yellow4_241,[‘yellow’],0,0,0,0,1
+yellow4_242,[‘yellow’],0,0,0,0,1
+yellow4_243,[‘yellow’],0,0,0,0,1
+yellow4_244,[‘yellow’],0,0,0,0,1
+yellow4_245,[‘yellow’],0,0,0,0,1
+yellow4_246,[‘yellow’],0,0,0,0,1
+yellow4_247,[‘yellow’],0,0,0,0,1
+yellow4_248,[‘yellow’],0,0,0,0,1
+yellow4_249,[‘yellow’],0,0,0,0,1
+yellow4_250,[‘yellow’],0,0,0,0,1
+yellow4_251,[‘yellow’],0,0,0,0,1
+yellow4_252,[‘yellow’],0,0,0,0,1
+yellow4_253,[‘yellow’],0,0,0,0,1
+yellow4_254,[‘yellow’],0,0,0,0,1
+yellow4_255,[‘yellow’],0,0,0,0,1
+yellow4_256,[‘yellow’],0,0,0,0,1
+yellow4_257,[‘yellow’],0,0,0,0,1
+yellow4_258,[‘yellow’],0,0,0,0,1
+yellow4_259,[‘yellow’],0,0,0,0,1
+yellow4_260,[‘yellow’],0,0,0,0,1
+yellow4_261,[‘yellow’],0,0,0,0,1
+yellow4_262,[‘yellow’],0,0,0,0,1
+yellow4_263,[‘yellow’],0,0,0,0,1
+yellow4_264,[‘yellow’],0,0,0,0,1
+yellow4_265,[‘yellow’],0,0,0,0,1
+yellow4_266,[‘yellow’],0,0,0,0,1
+yellow4_267,[‘yellow’],0,0,0,0,1
+yellow4_268,[‘yellow’],0,0,0,0,1
+yellow4_269,[‘yellow’],0,0,0,0,1
+yellow4_270,[‘yellow’],0,0,0,0,1
+yellow4_271,[‘yellow’],0,0,0,0,1
+yellow4_272,[‘yellow’],0,0,0,0,1
+yellow4_273,[‘yellow’],0,0,0,0,1
+yellow4_274,[‘yellow’],0,0,0,0,1
+yellow4_275,[‘yellow’],0,0,0,0,1
+yellow4_276,[‘yellow’],0,0,0,0,1
+yellow4_277,[‘yellow’],0,0,0,0,1
+yellow4_278,[‘yellow’],0,0,0,0,1
+yellow4_279,[‘yellow’],0,0,0,0,1
+yellow4_280,[‘yellow’],0,0,0,0,1
+yellow4_281,[‘yellow’],0,0,0,0,1
+yellow4_282,[‘yellow’],0,0,0,0,1
+yellow4_283,[‘yellow’],0,0,0,0,1
+yellow4_284,[‘yellow’],0,0,0,0,1
+yellow4_285,[‘yellow’],0,0,0,0,1
+yellow4_286,[‘yellow’],0,0,0,0,1
+yellow4_287,[‘yellow’],0,0,0,0,1
+yellow4_288,[‘yellow’],0,0,0,0,1
+yellow4_289,[‘yellow’],0,0,0,0,1
+yellow4_290,[‘yellow’],0,0,0,0,1
+yellow4_291,[‘yellow’],0,0,0,0,1
+yellow4_292,[‘yellow’],0,0,0,0,1
+yellow4_293,[‘yellow’],0,0,0,0,1
+yellow4_294,[‘yellow’],0,0,0,0,1
+yellow4_295,[‘yellow’],0,0,0,0,1
+yellow4_296,[‘yellow’],0,0,0,0,1
+yellow4_297,[‘yellow’],0,0,0,0,1
+yellow4_298,[‘yellow’],0,0,0,0,1
+yellow4_299,[‘yellow’],0,0,0,0,1
+yellow4_300,[‘yellow’],0,0,0,0,1
+yellow4_301,[‘yellow’],0,0,0,0,1
+yellow4_302,[‘yellow’],0,0,0,0,1
+yellow4_303,[‘yellow’],0,0,0,0,1
+yellow4_304,[‘yellow’],0,0,0,0,1
+yellow4_305,[‘yellow’],0,0,0,0,1
+yellow4_306,[‘yellow’],0,0,0,0,1
+yellow4_307,[‘yellow’],0,0,0,0,1
+yellow4_308,[‘yellow’],0,0,0,0,1
+yellow4_309,[‘yellow’],0,0,0,0,1
+yellow4_310,[‘yellow’],0,0,0,0,1
+yellow4_311,[‘yellow’],0,0,0,0,1
+yellow4_312,[‘yellow’],0,0,0,0,1
+yellow4_313,[‘yellow’],0,0,0,0,1
+yellow4_314,[‘yellow’],0,0,0,0,1
+yellow4_315,[‘yellow’],0,0,0,0,1
+yellow4_316,[‘yellow’],0,0,0,0,1
+yellow4_317,[‘yellow’],0,0,0,0,1
+yellow4_318,[‘yellow’],0,0,0,0,1
+yellow4_319,[‘yellow’],0,0,0,0,1
+yellow4_320,[‘yellow’],0,0,0,0,1
+yellow4_321,[‘yellow’],0,0,0,0,1
+yellow4_322,[‘yellow’],0,0,0,0,1
+yellow4_323,[‘yellow’],0,0,0,0,1
+yellow4_324,[‘yellow’],0,0,0,0,1
+yellow4_325,[‘yellow’],0,0,0,0,1
+yellow4_326,[‘yellow’],0,0,0,0,1
+yellow4_327,[‘yellow’],0,0,0,0,1
+yellow4_328,[‘yellow’],0,0,0,0,1
+yellow4_329,[‘yellow’],0,0,0,0,1
+yellow4_330,[‘yellow’],0,0,0,0,1
+yellow4_331,[‘yellow’],0,0,0,0,1
+yellow4_332,[‘yellow’],0,0,0,0,1
+yellow4_333,[‘yellow’],0,0,0,0,1
+yellow4_334,[‘yellow’],0,0,0,0,1
+yellow4_335,[‘yellow’],0,0,0,0,1
+yellow4_336,[‘yellow’],0,0,0,0,1
+yellow4_337,[‘yellow’],0,0,0,0,1
+yellow4_338,[‘yellow’],0,0,0,0,1
+yellow4_339,[‘yellow’],0,0,0,0,1
+yellow4_340,[‘yellow’],0,0,0,0,1
+yellow4_341,[‘yellow’],0,0,0,0,1
+yellow4_342,[‘yellow’],0,0,0,0,1
+yellow4_343,[‘yellow’],0,0,0,0,1
+yellow4_344,[‘yellow’],0,0,0,0,1
+yellow4_345,[‘yellow’],0,0,0,0,1
+yellow4_346,[‘yellow’],0,0,0,0,1
+yellow4_347,[‘yellow’],0,0,0,0,1
+yellow4_348,[‘yellow’],0,0,0,0,1
+yellow4_349,[‘yellow’],0,0,0,0,1
+yellow4_350,[‘yellow’],0,0,0,0,1
+yellow4_351,[‘yellow’],0,0,0,0,1
+yellow4_352,[‘yellow’],0,0,0,0,1
+yellow4_353,[‘yellow’],0,0,0,0,1
+yellow4_354,[‘yellow’],0,0,0,0,1
+yellow4_355,[‘yellow’],0,0,0,0,1
+yellow4_356,[‘yellow’],0,0,0,0,1
+yellow4_357,[‘yellow’],0,0,0,0,1
+yellow4_358,[‘yellow’],0,0,0,0,1
+yellow4_359,[‘yellow’],0,0,0,0,1

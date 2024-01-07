@@ -3,6 +3,7 @@ import json
 import os
 from pathlib import Path
 from threading import Thread
+from turtle import shape
 
 import numpy as np
 import torch
@@ -103,9 +104,11 @@ def test(data,
     jdict, stats, ap, ap_class, wandb_images = [], [], [], [], []
     for batch_i, (img, targets, paths, shapes) in enumerate(tqdm(dataloader, desc=s)):
         img = img.to(device, non_blocking=True)
+        # print(img.shape)
         img = img.half() if half else img.float()  # uint8 to fp16/32
         img /= 255.0  # 0 - 255 to 0.0 - 1.0
         targets = targets.to(device)
+        # print(f'shape is {shapes}')
         nb, _, height, width = img.shape  # batch size, channels, height, width
 
         with torch.no_grad():
@@ -128,6 +131,7 @@ def test(data,
         # Statistics per image
         for si, pred in enumerate(out):
             labels = targets[targets[:, 0] == si, 1:]
+            # print(f"Original shape: {shapes[si][1]}, Current shape: {img[si].shape[1:]}")
             nl = len(labels)
             tcls = labels[:, 0].tolist() if nl else []  # target class
             path = Path(paths[si])
@@ -140,7 +144,10 @@ def test(data,
 
             # Predictions
             predn = pred.clone()
+            # print(f'before is {predn}')
+
             scale_coords(img[si].shape[1:], predn[:, :4], shapes[si][0], shapes[si][1])  # native-space pred
+            # print(f'after is {predn}')
 
             # Append to text file
             if save_txt:
@@ -183,7 +190,14 @@ def test(data,
 
                 # target boxes
                 tbox = xywh2xyxy(labels[:, 1:5])
+                # print(f'predn : {predn}, shapes : {shapes}')
+                # print(f'shape is {shape}, {predn[:, :4]}, {shapes[si][0]}, {shapes[si][1]}')
+                # print(f"Before: {predn}")
+                print(f'size check : {img[si].shape[1:]}')
+                print(f'size check : {shapes[si][0]}')
                 scale_coords(img[si].shape[1:], tbox, shapes[si][0], shapes[si][1])  # native-space labels
+                # print(f'img[si].shape[1:] : {img[si].shape[1:]}, shapes[si][0] : {shapes[si][0]}, shapes[si][1] : {shapes[si][1]}')
+                
                 if plots:
                     confusion_matrix.process_batch(predn, torch.cat((labels[:, 0:1], tbox), 1))
 
@@ -196,7 +210,7 @@ def test(data,
                     if pi.shape[0]:
                         # Prediction to target ious
                         ious, i = box_iou(predn[pi, :4], tbox[ti]).max(1)  # best ious, indices
-
+                        print(f"IoUs for :", ious)
                         # Append detections
                         detected_set = set()
                         for j in (ious > iouv[0]).nonzero(as_tuple=False):
@@ -220,6 +234,7 @@ def test(data,
 
     # Compute statistics
     stats = [np.concatenate(x, 0) for x in zip(*stats)]  # to numpy
+    # print(f'state is {stats}')
     if len(stats) and stats[0].any():
         p, r, ap, f1, ap_class = ap_per_class(*stats, plot=plots, v5_metric=v5_metric, save_dir=save_dir, names=names)
         ap50, ap = ap[:, 0], ap.mean(1)  # AP@0.5, AP@0.5:0.95
